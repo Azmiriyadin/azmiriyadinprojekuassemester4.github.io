@@ -1,0 +1,5637 @@
+{
+  "customer": {
+    "103": {
+      "addressLine1": "54, rue Royale",
+      "addressLine2": "",
+      "city": "Nantes",
+      "contactFirstName": "Carine ",
+      "contactLastName": "Schmitt",
+      "country": "France",
+      "creditLimit": "21000.00",
+      "customerName": "Atelier graphique",
+      "postalCode": "44000",
+      "salesRepEmployeeNumber": "1370",
+      "state": ""
+    },
+    "112": {
+      "addressLine1": "8489 Strong St.",
+      "addressLine2": "",
+      "city": "Las Vegas",
+      "contactFirstName": "Jean",
+      "contactLastName": "King",
+      "country": "USA",
+      "creditLimit": "71800.00",
+      "customerName": "Signal Gift Stores",
+      "postalCode": "83030",
+      "salesRepEmployeeNumber": "1166",
+      "state": "NV"
+    },
+    "114": {
+      "addressLine1": "636 St Kilda Road",
+      "addressLine2": "Level 3",
+      "city": "Melbourne",
+      "contactFirstName": "Peter",
+      "contactLastName": "Ferguson",
+      "country": "Australia",
+      "creditLimit": "117300.00",
+      "customerName": "Australian Collectors, Co.",
+      "postalCode": "3004",
+      "salesRepEmployeeNumber": "1611",
+      "state": "Victoria"
+    },
+    "119": {
+      "addressLine1": "67, rue des Cinquante Otages",
+      "addressLine2": "",
+      "city": "Nantes",
+      "contactFirstName": "Janine ",
+      "contactLastName": "Labrune",
+      "country": "France",
+      "creditLimit": "118200.00",
+      "customerName": "La Rochelle Gifts",
+      "postalCode": "44000",
+      "salesRepEmployeeNumber": "1370",
+      "state": ""
+    },
+    "121": {
+      "addressLine1": "Erling Skakkes gate 78",
+      "addressLine2": "",
+      "city": "Stavern",
+      "contactFirstName": "Jonas ",
+      "contactLastName": "Bergulfsen",
+      "country": "Norway",
+      "creditLimit": "81700.00",
+      "customerName": "Baane Mini Imports",
+      "postalCode": "4110",
+      "salesRepEmployeeNumber": "1504",
+      "state": ""
+    },
+    "124": {
+      "addressLine1": "5677 Strong St.",
+      "addressLine2": "",
+      "city": "San Rafael",
+      "contactFirstName": "Susan",
+      "contactLastName": "Nelson",
+      "country": "USA",
+      "creditLimit": "210500.00",
+      "customerName": "Mini Gifts Distributors Ltd.",
+      "postalCode": "97562",
+      "salesRepEmployeeNumber": "1165",
+      "state": "CA"
+    },
+    "125": {
+      "addressLine1": "ul. Filtrowa 68",
+      "addressLine2": "",
+      "city": "Warszawa",
+      "contactFirstName": "Zbyszek ",
+      "contactLastName": "Piestrzeniewicz",
+      "country": "Poland",
+      "creditLimit": "0.00",
+      "customerName": "Havel & Zbyszek Co",
+      "postalCode": "01-012",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "128": {
+      "addressLine1": "Lyonerstr. 34",
+      "addressLine2": "",
+      "city": "Frankfurt",
+      "contactFirstName": "Roland",
+      "contactLastName": "Keitel",
+      "country": "Germany",
+      "creditLimit": "59700.00",
+      "customerName": "Blauer See Auto, Co.",
+      "postalCode": "60528",
+      "salesRepEmployeeNumber": "1504",
+      "state": ""
+    },
+    "129": {
+      "addressLine1": "5557 North Pendale Street",
+      "addressLine2": "",
+      "city": "San Francisco",
+      "contactFirstName": "Julie",
+      "contactLastName": "Murphy",
+      "country": "USA",
+      "creditLimit": "64600.00",
+      "customerName": "Mini Wheels Co.",
+      "postalCode": "94217",
+      "salesRepEmployeeNumber": "1165",
+      "state": "CA"
+    },
+    "131": {
+      "addressLine1": "897 Long Airport Avenue",
+      "addressLine2": "",
+      "city": "NYC",
+      "contactFirstName": "Kwai",
+      "contactLastName": "Lee",
+      "country": "USA",
+      "creditLimit": "114900.00",
+      "customerName": "Land of Toys Inc.",
+      "postalCode": "10022",
+      "salesRepEmployeeNumber": "1323",
+      "state": "NY"
+    },
+    "141": {
+      "addressLine1": "C/ Moralzarzal, 86",
+      "addressLine2": "",
+      "city": "Madrid",
+      "contactFirstName": "Diego ",
+      "contactLastName": "Freyre",
+      "country": "Spain",
+      "creditLimit": "227600.00",
+      "customerName": "Euro+ Shopping Channel",
+      "postalCode": "28034",
+      "salesRepEmployeeNumber": "1370",
+      "state": ""
+    },
+    "144": {
+      "addressLine1": "Berguvsvägen  8",
+      "addressLine2": "",
+      "city": "Luleå",
+      "contactFirstName": "Christina ",
+      "contactLastName": "Berglund",
+      "country": "Sweden",
+      "creditLimit": "53100.00",
+      "customerName": "Volvo Model Replicas, Co",
+      "postalCode": "S-958 22",
+      "salesRepEmployeeNumber": "1504",
+      "state": ""
+    },
+    "145": {
+      "addressLine1": "Vinbæltet 34",
+      "addressLine2": "",
+      "city": "Kobenhavn",
+      "contactFirstName": "Jytte ",
+      "contactLastName": "Petersen",
+      "country": "Denmark",
+      "creditLimit": "83400.00",
+      "customerName": "Danish Wholesale Imports",
+      "postalCode": "1734",
+      "salesRepEmployeeNumber": "1401",
+      "state": ""
+    },
+    "146": {
+      "addressLine1": "2, rue du Commerce",
+      "addressLine2": "",
+      "city": "Lyon",
+      "contactFirstName": "Mary ",
+      "contactLastName": "Saveley",
+      "country": "France",
+      "creditLimit": "123900.00",
+      "customerName": "Saveley & Henriot, Co.",
+      "postalCode": "69004",
+      "salesRepEmployeeNumber": "1337",
+      "state": ""
+    },
+    "148": {
+      "addressLine1": "Bronz Sok.",
+      "addressLine2": "Bronz Apt. 3/6 Tesvikiye",
+      "city": "Singapore",
+      "contactFirstName": "Eric",
+      "contactLastName": "Natividad",
+      "country": "Singapore",
+      "creditLimit": "103800.00",
+      "customerName": "Dragon Souveniers, Ltd.",
+      "postalCode": "079903",
+      "salesRepEmployeeNumber": "1621",
+      "state": ""
+    },
+    "151": {
+      "addressLine1": "4092 Furth Circle",
+      "addressLine2": "Suite 400",
+      "city": "NYC",
+      "contactFirstName": "Jeff",
+      "contactLastName": "Young",
+      "country": "USA",
+      "creditLimit": "138500.00",
+      "customerName": "Muscle Machine Inc",
+      "postalCode": "10022",
+      "salesRepEmployeeNumber": "1286",
+      "state": "NY"
+    },
+    "157": {
+      "addressLine1": "7586 Pompton St.",
+      "addressLine2": "",
+      "city": "Allentown",
+      "contactFirstName": "Kelvin",
+      "contactLastName": "Leong",
+      "country": "USA",
+      "creditLimit": "100600.00",
+      "customerName": "Diecast Classics Inc.",
+      "postalCode": "70267",
+      "salesRepEmployeeNumber": "1216",
+      "state": "PA"
+    },
+    "161": {
+      "addressLine1": "9408 Furth Circle",
+      "addressLine2": "",
+      "city": "Burlingame",
+      "contactFirstName": "Juri",
+      "contactLastName": "Hashimoto",
+      "country": "USA",
+      "creditLimit": "84600.00",
+      "customerName": "Technics Stores Inc.",
+      "postalCode": "94217",
+      "salesRepEmployeeNumber": "1165",
+      "state": "CA"
+    },
+    "166": {
+      "addressLine1": "106 Linden Road Sandown",
+      "addressLine2": "2nd Floor",
+      "city": "Singapore",
+      "contactFirstName": "Wendy",
+      "contactLastName": "Victorino",
+      "country": "Singapore",
+      "creditLimit": "97900.00",
+      "customerName": "Handji Gifts& Co",
+      "postalCode": "069045",
+      "salesRepEmployeeNumber": "1612",
+      "state": ""
+    },
+    "167": {
+      "addressLine1": "Brehmen St. 121",
+      "addressLine2": "PR 334 Sentrum",
+      "city": "Bergen",
+      "contactFirstName": "Veysel",
+      "contactLastName": "Oeztan",
+      "country": "Norway  ",
+      "creditLimit": "96800.00",
+      "customerName": "Herkku Gifts",
+      "postalCode": "N 5804",
+      "salesRepEmployeeNumber": "1504",
+      "state": ""
+    },
+    "168": {
+      "addressLine1": "149 Spinnaker Dr.",
+      "addressLine2": "Suite 101",
+      "city": "New Haven",
+      "contactFirstName": "Keith",
+      "contactLastName": "Franco",
+      "country": "USA",
+      "creditLimit": "0.00",
+      "customerName": "American Souvenirs Inc",
+      "postalCode": "97823",
+      "salesRepEmployeeNumber": "1286",
+      "state": "CT"
+    },
+    "169": {
+      "addressLine1": "Estrada da saúde n. 58",
+      "addressLine2": "",
+      "city": "Lisboa",
+      "contactFirstName": "Isabel ",
+      "contactLastName": "de Castro",
+      "country": "Portugal",
+      "creditLimit": "0.00",
+      "customerName": "Porto Imports Co.",
+      "postalCode": "1756",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "171": {
+      "addressLine1": "184, chaussée de Tournai",
+      "addressLine2": "",
+      "city": "Lille",
+      "contactFirstName": "Martine ",
+      "contactLastName": "Rancé",
+      "country": "France",
+      "creditLimit": "82900.00",
+      "customerName": "Daedalus Designs Imports",
+      "postalCode": "59000",
+      "salesRepEmployeeNumber": "1370",
+      "state": ""
+    },
+    "172": {
+      "addressLine1": "265, boulevard Charonne",
+      "addressLine2": "",
+      "city": "Paris",
+      "contactFirstName": "Marie",
+      "contactLastName": "Bertrand",
+      "country": "France",
+      "creditLimit": "84300.00",
+      "customerName": "La Corne D'abondance, Co.",
+      "postalCode": "75012",
+      "salesRepEmployeeNumber": "1337",
+      "state": ""
+    },
+    "173": {
+      "addressLine1": "4658 Baden Av.",
+      "addressLine2": "",
+      "city": "Cambridge",
+      "contactFirstName": "Jerry",
+      "contactLastName": "Tseng",
+      "country": "USA",
+      "creditLimit": "43400.00",
+      "customerName": "Cambridge Collectables Co.",
+      "postalCode": "51247",
+      "salesRepEmployeeNumber": "1188",
+      "state": "MA"
+    },
+    "175": {
+      "addressLine1": "25593 South Bay Ln.",
+      "addressLine2": "",
+      "city": "Bridgewater",
+      "contactFirstName": "Julie",
+      "contactLastName": "King",
+      "country": "USA",
+      "creditLimit": "84300.00",
+      "customerName": "Gift Depot Inc.",
+      "postalCode": "97562",
+      "salesRepEmployeeNumber": "1323",
+      "state": "CT"
+    },
+    "177": {
+      "addressLine1": "1-6-20 Dojima",
+      "addressLine2": "",
+      "city": "Kita-ku",
+      "contactFirstName": "Mory",
+      "contactLastName": "Kentary",
+      "country": "Japan",
+      "creditLimit": "81200.00",
+      "customerName": "Osaka Souveniers Co.",
+      "postalCode": " 530-0003",
+      "salesRepEmployeeNumber": "1621",
+      "state": "Osaka"
+    },
+    "181": {
+      "addressLine1": "2678 Kingston Rd.",
+      "addressLine2": "Suite 101",
+      "city": "NYC",
+      "contactFirstName": "Michael",
+      "contactLastName": "Frick",
+      "country": "USA",
+      "creditLimit": "76400.00",
+      "customerName": "Vitachrome Inc.",
+      "postalCode": "10022",
+      "salesRepEmployeeNumber": "1286",
+      "state": "NY"
+    },
+    "186": {
+      "addressLine1": "Keskuskatu 45",
+      "addressLine2": "",
+      "city": "Helsinki",
+      "contactFirstName": "Matti",
+      "contactLastName": "Karttunen",
+      "country": "Finland",
+      "creditLimit": "96500.00",
+      "customerName": "Toys of Finland, Co.",
+      "postalCode": "21240",
+      "salesRepEmployeeNumber": "1501",
+      "state": ""
+    },
+    "187": {
+      "addressLine1": "Fauntleroy Circus",
+      "addressLine2": "",
+      "city": "Manchester",
+      "contactFirstName": "Rachel",
+      "contactLastName": "Ashworth",
+      "country": "UK",
+      "creditLimit": "136800.00",
+      "customerName": "AV Stores, Co.",
+      "postalCode": "EC2 5NT",
+      "salesRepEmployeeNumber": "1501",
+      "state": ""
+    },
+    "189": {
+      "addressLine1": "25 Maiden Lane",
+      "addressLine2": "Floor No. 4",
+      "city": "Dublin",
+      "contactFirstName": "Dean",
+      "contactLastName": "Cassidy",
+      "country": "Ireland",
+      "creditLimit": "69400.00",
+      "customerName": "Clover Collections, Co.",
+      "postalCode": "2",
+      "salesRepEmployeeNumber": "1504",
+      "state": ""
+    },
+    "198": {
+      "addressLine1": "16780 Pompton St.",
+      "addressLine2": "",
+      "city": "Brickhaven",
+      "contactFirstName": "Leslie",
+      "contactLastName": "Taylor",
+      "country": "USA",
+      "creditLimit": "23000.00",
+      "customerName": "Auto-Moto Classics Inc.",
+      "postalCode": "58339",
+      "salesRepEmployeeNumber": "1216",
+      "state": "MA"
+    },
+    "201": {
+      "addressLine1": "12, Berkeley Gardens Blvd",
+      "addressLine2": "",
+      "city": "Liverpool",
+      "contactFirstName": "Elizabeth",
+      "contactLastName": "Devon",
+      "country": "UK",
+      "creditLimit": "92700.00",
+      "customerName": "UK Collectables, Ltd.",
+      "postalCode": "WX1 6LT",
+      "salesRepEmployeeNumber": "1501",
+      "state": ""
+    },
+    "202": {
+      "addressLine1": "1900 Oak St.",
+      "addressLine2": "",
+      "city": "Vancouver",
+      "contactFirstName": "Yoshi ",
+      "contactLastName": "Tamuri",
+      "country": "Canada",
+      "creditLimit": "90300.00",
+      "customerName": "Canadian Gift Exchange Network",
+      "postalCode": "V3F 2K1",
+      "salesRepEmployeeNumber": "1323",
+      "state": "BC"
+    },
+    "204": {
+      "addressLine1": "7635 Spinnaker Dr.",
+      "addressLine2": "",
+      "city": "Brickhaven",
+      "contactFirstName": "Miguel",
+      "contactLastName": "Barajas",
+      "country": "USA",
+      "creditLimit": "68700.00",
+      "customerName": "Online Mini Collectables",
+      "postalCode": "58339",
+      "salesRepEmployeeNumber": "1188",
+      "state": "MA"
+    },
+    "205": {
+      "addressLine1": "78934 Hillside Dr.",
+      "addressLine2": "",
+      "city": "Pasadena",
+      "contactFirstName": "Julie",
+      "contactLastName": "Young",
+      "country": "USA",
+      "creditLimit": "90700.00",
+      "customerName": "Toys4GrownUps.com",
+      "postalCode": "90003",
+      "salesRepEmployeeNumber": "1166",
+      "state": "CA"
+    },
+    "206": {
+      "addressLine1": "Suntec Tower Three",
+      "addressLine2": "8 Temasek",
+      "city": "Singapore",
+      "contactFirstName": "Brydey",
+      "contactLastName": "Walker",
+      "country": "Singapore",
+      "creditLimit": "0.00",
+      "customerName": "Asian Shopping Network, Co",
+      "postalCode": "038988",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "209": {
+      "addressLine1": "24, place Kléber",
+      "addressLine2": "",
+      "city": "Strasbourg",
+      "contactFirstName": "Frédérique ",
+      "contactLastName": "Citeaux",
+      "country": "France",
+      "creditLimit": "53800.00",
+      "customerName": "Mini Caravy",
+      "postalCode": "67000",
+      "salesRepEmployeeNumber": "1370",
+      "state": ""
+    },
+    "211": {
+      "addressLine1": "Bank of China Tower",
+      "addressLine2": "1 Garden Road",
+      "city": "Central Hong Kong",
+      "contactFirstName": "Mike",
+      "contactLastName": "Gao",
+      "country": "Hong Kong",
+      "creditLimit": "58600.00",
+      "customerName": "King Kong Collectables, Co.",
+      "postalCode": "",
+      "salesRepEmployeeNumber": "1621",
+      "state": ""
+    },
+    "216": {
+      "addressLine1": "Rambla de Cataluña, 23",
+      "addressLine2": "",
+      "city": "Barcelona",
+      "contactFirstName": "Eduardo ",
+      "contactLastName": "Saavedra",
+      "country": "Spain",
+      "creditLimit": "60300.00",
+      "customerName": "Enaco Distributors",
+      "postalCode": "08022",
+      "salesRepEmployeeNumber": "1702",
+      "state": ""
+    },
+    "219": {
+      "addressLine1": "4097 Douglas Av.",
+      "addressLine2": "",
+      "city": "Glendale",
+      "contactFirstName": "Mary",
+      "contactLastName": "Young",
+      "country": "USA",
+      "creditLimit": "11000.00",
+      "customerName": "Boards & Toys Co.",
+      "postalCode": "92561",
+      "salesRepEmployeeNumber": "1166",
+      "state": "CA"
+    },
+    "223": {
+      "addressLine1": "Taucherstraße 10",
+      "addressLine2": "",
+      "city": "Cunewalde",
+      "contactFirstName": "Horst ",
+      "contactLastName": "Kloss",
+      "country": "Germany",
+      "creditLimit": "0.00",
+      "customerName": "Natürlich Autos",
+      "postalCode": "01307",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "227": {
+      "addressLine1": "Smagsloget 45",
+      "addressLine2": "",
+      "city": "Århus",
+      "contactFirstName": "Palle",
+      "contactLastName": "Ibsen",
+      "country": "Denmark",
+      "creditLimit": "120800.00",
+      "customerName": "Heintze Collectables",
+      "postalCode": "8200",
+      "salesRepEmployeeNumber": "1401",
+      "state": ""
+    },
+    "233": {
+      "addressLine1": "43 rue St. Laurent",
+      "addressLine2": "",
+      "city": "Montréal",
+      "contactFirstName": "Jean ",
+      "contactLastName": "Fresnière",
+      "country": "Canada",
+      "creditLimit": "48700.00",
+      "customerName": "Québec Home Shopping Network",
+      "postalCode": "H1J 1C3",
+      "salesRepEmployeeNumber": "1286",
+      "state": "Québec"
+    },
+    "237": {
+      "addressLine1": "Gran Vía, 1",
+      "addressLine2": "",
+      "city": "Madrid",
+      "contactFirstName": "Alejandra ",
+      "contactLastName": "Camino",
+      "country": "Spain",
+      "creditLimit": "0.00",
+      "customerName": "ANG Resellers",
+      "postalCode": "28001",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "239": {
+      "addressLine1": "361 Furth Circle",
+      "addressLine2": "",
+      "city": "San Diego",
+      "contactFirstName": "Valarie",
+      "contactLastName": "Thompson",
+      "country": "USA",
+      "creditLimit": "105000.00",
+      "customerName": "Collectable Mini Designs Co.",
+      "postalCode": "91217",
+      "salesRepEmployeeNumber": "1166",
+      "state": "CA"
+    },
+    "240": {
+      "addressLine1": "Garden House",
+      "addressLine2": "Crowther Way 23",
+      "city": "Cowes",
+      "contactFirstName": "Helen ",
+      "contactLastName": "Bennett",
+      "country": "UK",
+      "creditLimit": "93900.00",
+      "customerName": "giftsbymail.co.uk",
+      "postalCode": "PO31 7PJ",
+      "salesRepEmployeeNumber": "1501",
+      "state": "Isle of Wight"
+    },
+    "242": {
+      "addressLine1": "1 rue Alsace-Lorraine",
+      "addressLine2": "",
+      "city": "Toulouse",
+      "contactFirstName": "Annette ",
+      "contactLastName": "Roulet",
+      "country": "France",
+      "creditLimit": "61100.00",
+      "customerName": "Alpha Cognac",
+      "postalCode": "31000",
+      "salesRepEmployeeNumber": "1370",
+      "state": ""
+    },
+    "247": {
+      "addressLine1": "Magazinweg 7",
+      "addressLine2": "",
+      "city": "Frankfurt",
+      "contactFirstName": "Renate ",
+      "contactLastName": "Messner",
+      "country": "Germany",
+      "creditLimit": "0.00",
+      "customerName": "Messner Shopping Network",
+      "postalCode": "60528",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "249": {
+      "addressLine1": "Via Monte Bianco 34",
+      "addressLine2": "",
+      "city": "Torino",
+      "contactFirstName": "Paolo ",
+      "contactLastName": "Accorti",
+      "country": "Italy",
+      "creditLimit": "113000.00",
+      "customerName": "Amica Models & Co.",
+      "postalCode": "10100",
+      "salesRepEmployeeNumber": "1401",
+      "state": ""
+    },
+    "250": {
+      "addressLine1": "27 rue du Colonel Pierre Avia",
+      "addressLine2": "",
+      "city": "Paris",
+      "contactFirstName": "Daniel",
+      "contactLastName": "Da Silva",
+      "country": "France",
+      "creditLimit": "68100.00",
+      "customerName": "Lyon Souveniers",
+      "postalCode": "75508",
+      "salesRepEmployeeNumber": "1337",
+      "state": ""
+    },
+    "256": {
+      "addressLine1": "67, avenue de l'Europe",
+      "addressLine2": "",
+      "city": "Versailles",
+      "contactFirstName": "Daniel ",
+      "contactLastName": "Tonini",
+      "country": "France",
+      "creditLimit": "77900.00",
+      "customerName": "Auto Associés & Cie.",
+      "postalCode": "78000",
+      "salesRepEmployeeNumber": "1370",
+      "state": ""
+    },
+    "259": {
+      "addressLine1": "Mehrheimerstr. 369",
+      "addressLine2": "",
+      "city": "Köln",
+      "contactFirstName": "Henriette ",
+      "contactLastName": "Pfalzheim",
+      "country": "Germany",
+      "creditLimit": "120400.00",
+      "customerName": "Toms Spezialitäten, Ltd",
+      "postalCode": "50739",
+      "salesRepEmployeeNumber": "1504",
+      "state": ""
+    },
+    "260": {
+      "addressLine1": "23 Tsawassen Blvd.",
+      "addressLine2": "",
+      "city": "Tsawassen",
+      "contactFirstName": "Elizabeth ",
+      "contactLastName": "Lincoln",
+      "country": "Canada",
+      "creditLimit": "89600.00",
+      "customerName": "Royal Canadian Collectables, Ltd.",
+      "postalCode": "T2F 8M4",
+      "salesRepEmployeeNumber": "1323",
+      "state": "BC"
+    },
+    "273": {
+      "addressLine1": "Berliner Platz 43",
+      "addressLine2": "",
+      "city": "München",
+      "contactFirstName": "Peter ",
+      "contactLastName": "Franken",
+      "country": "Germany",
+      "creditLimit": "0.00",
+      "customerName": "Franken Gifts, Co",
+      "postalCode": "80805",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "276": {
+      "addressLine1": "201 Miller Street",
+      "addressLine2": "Level 15",
+      "city": "North Sydney",
+      "contactFirstName": "Anna",
+      "contactLastName": "O'Hara",
+      "country": "Australia",
+      "creditLimit": "107800.00",
+      "customerName": "Anna's Decorations, Ltd",
+      "postalCode": "2060",
+      "salesRepEmployeeNumber": "1611",
+      "state": "NSW"
+    },
+    "278": {
+      "addressLine1": "Via Ludovico il Moro 22",
+      "addressLine2": "",
+      "city": "Bergamo",
+      "contactFirstName": "Giovanni ",
+      "contactLastName": "Rovelli",
+      "country": "Italy",
+      "creditLimit": "119600.00",
+      "customerName": "Rovelli Gifts",
+      "postalCode": "24100",
+      "salesRepEmployeeNumber": "1401",
+      "state": ""
+    },
+    "282": {
+      "addressLine1": "Monitor Money Building",
+      "addressLine2": "815 Pacific Hwy",
+      "city": "Chatswood",
+      "contactFirstName": "Adrian",
+      "contactLastName": "Huxley",
+      "country": "Australia",
+      "creditLimit": "93300.00",
+      "customerName": "Souveniers And Things Co.",
+      "postalCode": "2067",
+      "salesRepEmployeeNumber": "1611",
+      "state": "NSW"
+    },
+    "286": {
+      "addressLine1": "39323 Spinnaker Dr.",
+      "addressLine2": "",
+      "city": "Cambridge",
+      "contactFirstName": "Marta",
+      "contactLastName": "Hernandez",
+      "country": "USA",
+      "creditLimit": "123700.00",
+      "customerName": "Marta's Replicas Co.",
+      "postalCode": "51247",
+      "salesRepEmployeeNumber": "1216",
+      "state": "MA"
+    },
+    "293": {
+      "addressLine1": "Rte des Arsenaux 41 ",
+      "addressLine2": "",
+      "city": "Fribourg",
+      "contactFirstName": "Ed",
+      "contactLastName": "Harrison",
+      "country": "Switzerland",
+      "creditLimit": "0.00",
+      "customerName": "BG&E Collectables",
+      "postalCode": "1700",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "298": {
+      "addressLine1": "Grenzacherweg 237",
+      "addressLine2": "",
+      "city": "Genève",
+      "contactFirstName": "Mihael",
+      "contactLastName": "Holz",
+      "country": "Switzerland",
+      "creditLimit": "141300.00",
+      "customerName": "Vida Sport, Ltd",
+      "postalCode": "1203",
+      "salesRepEmployeeNumber": "1702",
+      "state": ""
+    },
+    "299": {
+      "addressLine1": "Drammensveien 126A",
+      "addressLine2": "PB 211 Sentrum",
+      "city": "Oslo",
+      "contactFirstName": "Jan",
+      "contactLastName": "Klaeboe",
+      "country": "Norway  ",
+      "creditLimit": "95100.00",
+      "customerName": "Norway Gifts By Mail, Co.",
+      "postalCode": "N 0106",
+      "salesRepEmployeeNumber": "1504",
+      "state": ""
+    },
+    "303": {
+      "addressLine1": "Kingsfordweg 151",
+      "addressLine2": "",
+      "city": "Amsterdam",
+      "contactFirstName": "Bradley",
+      "contactLastName": "Schuyler",
+      "country": "Netherlands",
+      "creditLimit": "0.00",
+      "customerName": "Schuyler Imports",
+      "postalCode": "1043 GR",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "307": {
+      "addressLine1": "Obere Str. 57",
+      "addressLine2": "",
+      "city": "Berlin",
+      "contactFirstName": "Mel",
+      "contactLastName": "Andersen",
+      "country": "Germany",
+      "creditLimit": "0.00",
+      "customerName": "Der Hund Imports",
+      "postalCode": "12209",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "311": {
+      "addressLine1": "Torikatu 38",
+      "addressLine2": "",
+      "city": "Oulu",
+      "contactFirstName": "Pirkko",
+      "contactLastName": "Koskitalo",
+      "country": "Finland",
+      "creditLimit": "90500.00",
+      "customerName": "Oulu Toy Supplies, Inc.",
+      "postalCode": "90110",
+      "salesRepEmployeeNumber": "1501",
+      "state": ""
+    },
+    "314": {
+      "addressLine1": "Rue Joseph-Bens 532",
+      "addressLine2": "",
+      "city": "Bruxelles",
+      "contactFirstName": "Catherine ",
+      "contactLastName": "Dewey",
+      "country": "Belgium",
+      "creditLimit": "79900.00",
+      "customerName": "Petit Auto",
+      "postalCode": "B-1180",
+      "salesRepEmployeeNumber": "1401",
+      "state": ""
+    },
+    "319": {
+      "addressLine1": "3758 North Pendale Street",
+      "addressLine2": "",
+      "city": "White Plains",
+      "contactFirstName": "Steve",
+      "contactLastName": "Frick",
+      "country": "USA",
+      "creditLimit": "102700.00",
+      "customerName": "Mini Classics",
+      "postalCode": "24067",
+      "salesRepEmployeeNumber": "1323",
+      "state": "NY"
+    },
+    "320": {
+      "addressLine1": "4575 Hillside Dr.",
+      "addressLine2": "",
+      "city": "New Bedford",
+      "contactFirstName": "Wing",
+      "contactLastName": "Huang",
+      "country": "USA",
+      "creditLimit": "94500.00",
+      "customerName": "Mini Creations Ltd.",
+      "postalCode": "50553",
+      "salesRepEmployeeNumber": "1188",
+      "state": "MA"
+    },
+    "321": {
+      "addressLine1": "7734 Strong St.",
+      "addressLine2": "",
+      "city": "San Francisco",
+      "contactFirstName": "Julie",
+      "contactLastName": "Brown",
+      "country": "USA",
+      "creditLimit": "105000.00",
+      "customerName": "Corporate Gift Ideas Co.",
+      "postalCode": "94217",
+      "salesRepEmployeeNumber": "1165",
+      "state": "CA"
+    },
+    "323": {
+      "addressLine1": "162-164 Grafton Road",
+      "addressLine2": "Level 2",
+      "city": "Auckland  ",
+      "contactFirstName": "Mike",
+      "contactLastName": "Graham",
+      "country": "New Zealand",
+      "creditLimit": "88000.00",
+      "customerName": "Down Under Souveniers, Inc",
+      "postalCode": "",
+      "salesRepEmployeeNumber": "1612",
+      "state": ""
+    },
+    "324": {
+      "addressLine1": "35 King George",
+      "addressLine2": "",
+      "city": "London",
+      "contactFirstName": "Ann ",
+      "contactLastName": "Brown",
+      "country": "UK",
+      "creditLimit": "77000.00",
+      "customerName": "Stylish Desk Decors, Co.",
+      "postalCode": "WX3 6FW",
+      "salesRepEmployeeNumber": "1501",
+      "state": ""
+    },
+    "328": {
+      "addressLine1": "7476 Moss Rd.",
+      "addressLine2": "",
+      "city": "Newark",
+      "contactFirstName": "William",
+      "contactLastName": "Brown",
+      "country": "USA",
+      "creditLimit": "43000.00",
+      "customerName": "Tekni Collectables Inc.",
+      "postalCode": "94019",
+      "salesRepEmployeeNumber": "1323",
+      "state": "NJ"
+    },
+    "333": {
+      "addressLine1": "31 Duncan St. West End",
+      "addressLine2": "",
+      "city": "South Brisbane",
+      "contactFirstName": "Ben",
+      "contactLastName": "Calaghan",
+      "country": "Australia",
+      "creditLimit": "51600.00",
+      "customerName": "Australian Gift Network, Co",
+      "postalCode": "4101",
+      "salesRepEmployeeNumber": "1611",
+      "state": "Queensland"
+    },
+    "334": {
+      "addressLine1": "Software Engineering Center",
+      "addressLine2": "SEC Oy",
+      "city": "Espoo",
+      "contactFirstName": "Kalle",
+      "contactLastName": "Suominen",
+      "country": "Finland",
+      "creditLimit": "98800.00",
+      "customerName": "Suominen Souveniers",
+      "postalCode": "FIN-02271",
+      "salesRepEmployeeNumber": "1501",
+      "state": ""
+    },
+    "335": {
+      "addressLine1": "Maubelstr. 90",
+      "addressLine2": "",
+      "city": "Brandenburg",
+      "contactFirstName": "Philip ",
+      "contactLastName": "Cramer",
+      "country": "Germany",
+      "creditLimit": "0.00",
+      "customerName": "Cramer Spezialitäten, Ltd",
+      "postalCode": "14776",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "339": {
+      "addressLine1": "782 First Street",
+      "addressLine2": "",
+      "city": "Philadelphia",
+      "contactFirstName": "Francisca",
+      "contactLastName": "Cervantes",
+      "country": "USA",
+      "creditLimit": "81100.00",
+      "customerName": "Classic Gift Ideas, Inc",
+      "postalCode": "71270",
+      "salesRepEmployeeNumber": "1188",
+      "state": "PA"
+    },
+    "344": {
+      "addressLine1": "Merchants House",
+      "addressLine2": "27-30 Merchant's Quay",
+      "city": "Madrid",
+      "contactFirstName": "Jesus",
+      "contactLastName": "Fernandez",
+      "country": "Spain",
+      "creditLimit": "59600.00",
+      "customerName": "CAF Imports",
+      "postalCode": "28023",
+      "salesRepEmployeeNumber": "1702",
+      "state": ""
+    },
+    "347": {
+      "addressLine1": "6047 Douglas Av.",
+      "addressLine2": "",
+      "city": "Los Angeles",
+      "contactFirstName": "Brian",
+      "contactLastName": "Chandler",
+      "country": "USA",
+      "creditLimit": "57700.00",
+      "customerName": "Men 'R' US Retailers, Ltd.",
+      "postalCode": "91003",
+      "salesRepEmployeeNumber": "1166",
+      "state": "CA"
+    },
+    "348": {
+      "addressLine1": "8 Johnstown Road",
+      "addressLine2": "",
+      "city": "Cork",
+      "contactFirstName": "Patricia ",
+      "contactLastName": "McKenna",
+      "country": "Ireland",
+      "creditLimit": "0.00",
+      "customerName": "Asian Treasures, Inc.",
+      "postalCode": "",
+      "salesRepEmployeeNumber": "",
+      "state": "Co. Cork"
+    },
+    "350": {
+      "addressLine1": "12, rue des Bouchers",
+      "addressLine2": "",
+      "city": "Marseille",
+      "contactFirstName": "Laurence ",
+      "contactLastName": "Lebihan",
+      "country": "France",
+      "creditLimit": "65000.00",
+      "customerName": "Marseille Mini Autos",
+      "postalCode": "13008",
+      "salesRepEmployeeNumber": "1337",
+      "state": ""
+    },
+    "353": {
+      "addressLine1": "59 rue de l'Abbaye",
+      "addressLine2": "",
+      "city": "Reims",
+      "contactFirstName": "Paul ",
+      "contactLastName": "Henriot",
+      "country": "France",
+      "creditLimit": "81100.00",
+      "customerName": "Reims Collectables",
+      "postalCode": "51100",
+      "salesRepEmployeeNumber": "1337",
+      "state": ""
+    },
+    "356": {
+      "addressLine1": "1250 Pretorius Street",
+      "addressLine2": "",
+      "city": "Hatfield",
+      "contactFirstName": "Armand",
+      "contactLastName": "Kuger",
+      "country": "South Africa",
+      "creditLimit": "0.00",
+      "customerName": "SAR Distributors, Co",
+      "postalCode": "0028",
+      "salesRepEmployeeNumber": "",
+      "state": "Pretoria"
+    },
+    "357": {
+      "addressLine1": "199 Great North Road",
+      "addressLine2": "",
+      "city": "Auckland",
+      "contactFirstName": "Wales",
+      "contactLastName": "MacKinlay",
+      "country": "New Zealand",
+      "creditLimit": "77700.00",
+      "customerName": "GiftsForHim.com",
+      "postalCode": "",
+      "salesRepEmployeeNumber": "1612",
+      "state": ""
+    },
+    "361": {
+      "addressLine1": "Luisenstr. 48",
+      "addressLine2": "",
+      "city": "Münster",
+      "contactFirstName": "Karin",
+      "contactLastName": "Josephs",
+      "country": "Germany",
+      "creditLimit": "0.00",
+      "customerName": "Kommission Auto",
+      "postalCode": "44087",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "362": {
+      "addressLine1": "8616 Spinnaker Dr.",
+      "addressLine2": "",
+      "city": "Boston",
+      "contactFirstName": "Juri",
+      "contactLastName": "Yoshido",
+      "country": "USA",
+      "creditLimit": "41900.00",
+      "customerName": "Gifts4AllAges.com",
+      "postalCode": "51003",
+      "salesRepEmployeeNumber": "1216",
+      "state": "MA"
+    },
+    "363": {
+      "addressLine1": "2304 Long Airport Avenue",
+      "addressLine2": "",
+      "city": "Nashua",
+      "contactFirstName": "Dorothy",
+      "contactLastName": "Young",
+      "country": "USA",
+      "creditLimit": "114200.00",
+      "customerName": "Online Diecast Creations Co.",
+      "postalCode": "62005",
+      "salesRepEmployeeNumber": "1216",
+      "state": "NH"
+    },
+    "369": {
+      "addressLine1": "Jardim das rosas n. 32",
+      "addressLine2": "",
+      "city": "Lisboa",
+      "contactFirstName": "Lino ",
+      "contactLastName": "Rodriguez",
+      "country": "Portugal",
+      "creditLimit": "0.00",
+      "customerName": "Lisboa Souveniers, Inc",
+      "postalCode": "1675",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "376": {
+      "addressLine1": "Hauptstr. 29",
+      "addressLine2": "",
+      "city": "Bern",
+      "contactFirstName": "Braun",
+      "contactLastName": "Urs",
+      "country": "Switzerland",
+      "creditLimit": "0.00",
+      "customerName": "Precious Collectables",
+      "postalCode": "3012",
+      "salesRepEmployeeNumber": "1702",
+      "state": ""
+    },
+    "379": {
+      "addressLine1": "7825 Douglas Av.",
+      "addressLine2": "",
+      "city": "Brickhaven",
+      "contactFirstName": "Allen",
+      "contactLastName": "Nelson",
+      "country": "USA",
+      "creditLimit": "70700.00",
+      "customerName": "Collectables For Less Inc.",
+      "postalCode": "58339",
+      "salesRepEmployeeNumber": "1188",
+      "state": "MA"
+    },
+    "381": {
+      "addressLine1": "Boulevard Tirou, 255",
+      "addressLine2": "",
+      "city": "Charleroi",
+      "contactFirstName": "Pascale ",
+      "contactLastName": "Cartrain",
+      "country": "Belgium",
+      "creditLimit": "23500.00",
+      "customerName": "Royale Belge",
+      "postalCode": "B-6000",
+      "salesRepEmployeeNumber": "1401",
+      "state": ""
+    },
+    "382": {
+      "addressLine1": "Geislweg 14",
+      "addressLine2": "",
+      "city": "Salzburg",
+      "contactFirstName": "Georg ",
+      "contactLastName": "Pipps",
+      "country": "Austria",
+      "creditLimit": "71700.00",
+      "customerName": "Salzburg Collectables",
+      "postalCode": "5020",
+      "salesRepEmployeeNumber": "1401",
+      "state": ""
+    },
+    "385": {
+      "addressLine1": "15 McCallum Street",
+      "addressLine2": "NatWest Center #13-03",
+      "city": "Makati City",
+      "contactFirstName": "Arnold",
+      "contactLastName": "Cruz",
+      "country": "Philippines",
+      "creditLimit": "81500.00",
+      "customerName": "Cruz & Sons Co.",
+      "postalCode": "1227 MM",
+      "salesRepEmployeeNumber": "1621",
+      "state": ""
+    },
+    "386": {
+      "addressLine1": "Strada Provinciale 124",
+      "addressLine2": "",
+      "city": "Reggio Emilia",
+      "contactFirstName": "Maurizio ",
+      "contactLastName": "Moroni",
+      "country": "Italy",
+      "creditLimit": "121400.00",
+      "customerName": "L'ordine Souveniers",
+      "postalCode": "42100",
+      "salesRepEmployeeNumber": "1401",
+      "state": ""
+    },
+    "398": {
+      "addressLine1": "2-2-8 Roppongi",
+      "addressLine2": "",
+      "city": "Minato-ku",
+      "contactFirstName": "Akiko",
+      "contactLastName": "Shimamura",
+      "country": "Japan",
+      "creditLimit": "94400.00",
+      "customerName": "Tokyo Collectables, Ltd",
+      "postalCode": "106-0032",
+      "salesRepEmployeeNumber": "1621",
+      "state": "Tokyo"
+    },
+    "406": {
+      "addressLine1": "25, rue Lauriston",
+      "addressLine2": "",
+      "city": "Paris",
+      "contactFirstName": "Dominique",
+      "contactLastName": "Perrier",
+      "country": "France",
+      "creditLimit": "95000.00",
+      "customerName": "Auto Canal+ Petit",
+      "postalCode": "75016",
+      "salesRepEmployeeNumber": "1337",
+      "state": ""
+    },
+    "409": {
+      "addressLine1": "Adenauerallee 900",
+      "addressLine2": "",
+      "city": "Stuttgart",
+      "contactFirstName": "Rita ",
+      "contactLastName": "Müller",
+      "country": "Germany",
+      "creditLimit": "0.00",
+      "customerName": "Stuttgart Collectable Exchange",
+      "postalCode": "70563",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "412": {
+      "addressLine1": "101 Lambton Quay",
+      "addressLine2": "Level 11",
+      "city": "Wellington",
+      "contactFirstName": "Sarah",
+      "contactLastName": "McRoy",
+      "country": "New Zealand",
+      "creditLimit": "86800.00",
+      "customerName": "Extreme Desk Decorations, Ltd",
+      "postalCode": "",
+      "salesRepEmployeeNumber": "1612",
+      "state": ""
+    },
+    "415": {
+      "addressLine1": "Hansastr. 15",
+      "addressLine2": "",
+      "city": "Munich",
+      "contactFirstName": "Michael",
+      "contactLastName": "Donnermeyer",
+      "country": "Germany",
+      "creditLimit": "77000.00",
+      "customerName": "Bavarian Collectables Imports, Co.",
+      "postalCode": "80686",
+      "salesRepEmployeeNumber": "1504",
+      "state": ""
+    },
+    "424": {
+      "addressLine1": "5905 Pompton St.",
+      "addressLine2": "Suite 750",
+      "city": "NYC",
+      "contactFirstName": "Maria",
+      "contactLastName": "Hernandez",
+      "country": "USA",
+      "creditLimit": "67500.00",
+      "customerName": "Classic Legends Inc.",
+      "postalCode": "10022",
+      "salesRepEmployeeNumber": "1286",
+      "state": "NY"
+    },
+    "443": {
+      "addressLine1": "Heerstr. 22",
+      "addressLine2": "",
+      "city": "Leipzig",
+      "contactFirstName": "Alexander ",
+      "contactLastName": "Feuer",
+      "country": "Germany",
+      "creditLimit": "0.00",
+      "customerName": "Feuer Online Stores, Inc",
+      "postalCode": "04179",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "447": {
+      "addressLine1": "2440 Pompton St.",
+      "addressLine2": "",
+      "city": "Glendale",
+      "contactFirstName": "Dan",
+      "contactLastName": "Lewis",
+      "country": "USA",
+      "creditLimit": "49700.00",
+      "customerName": "Gift Ideas Corp.",
+      "postalCode": "97561",
+      "salesRepEmployeeNumber": "1323",
+      "state": "CT"
+    },
+    "448": {
+      "addressLine1": "Åkergatan 24",
+      "addressLine2": "",
+      "city": "Bräcke",
+      "contactFirstName": "Martha",
+      "contactLastName": "Larsson",
+      "country": "Sweden",
+      "creditLimit": "116400.00",
+      "customerName": "Scandinavian Gift Ideas",
+      "postalCode": "S-844 67",
+      "salesRepEmployeeNumber": "1504",
+      "state": ""
+    },
+    "450": {
+      "addressLine1": "3086 Ingle Ln.",
+      "addressLine2": "",
+      "city": "San Jose",
+      "contactFirstName": "Sue",
+      "contactLastName": "Frick",
+      "country": "USA",
+      "creditLimit": "77600.00",
+      "customerName": "The Sharp Gifts Warehouse",
+      "postalCode": "94217",
+      "salesRepEmployeeNumber": "1165",
+      "state": "CA"
+    },
+    "452": {
+      "addressLine1": "Kirchgasse 6",
+      "addressLine2": "",
+      "city": "Graz",
+      "contactFirstName": "Roland ",
+      "contactLastName": "Mendel",
+      "country": "Austria",
+      "creditLimit": "45300.00",
+      "customerName": "Mini Auto Werke",
+      "postalCode": "8010",
+      "salesRepEmployeeNumber": "1401",
+      "state": ""
+    },
+    "455": {
+      "addressLine1": "567 North Pendale Street",
+      "addressLine2": "",
+      "city": "New Haven",
+      "contactFirstName": "Leslie",
+      "contactLastName": "Murphy",
+      "country": "USA",
+      "creditLimit": "95400.00",
+      "customerName": "Super Scale Inc.",
+      "postalCode": "97823",
+      "salesRepEmployeeNumber": "1286",
+      "state": "CT"
+    },
+    "456": {
+      "addressLine1": "5290 North Pendale Street",
+      "addressLine2": "Suite 200",
+      "city": "NYC",
+      "contactFirstName": "Yu",
+      "contactLastName": "Choi",
+      "country": "USA",
+      "creditLimit": "39800.00",
+      "customerName": "Microscale Inc.",
+      "postalCode": "10022",
+      "salesRepEmployeeNumber": "1286",
+      "state": "NY"
+    },
+    "458": {
+      "addressLine1": "C/ Araquil, 67",
+      "addressLine2": "",
+      "city": "Madrid",
+      "contactFirstName": "Martín ",
+      "contactLastName": "Sommer",
+      "country": "Spain",
+      "creditLimit": "104600.00",
+      "customerName": "Corrida Auto Replicas, Ltd",
+      "postalCode": "28023",
+      "salesRepEmployeeNumber": "1702",
+      "state": ""
+    },
+    "459": {
+      "addressLine1": "Walserweg 21",
+      "addressLine2": "",
+      "city": "Aachen",
+      "contactFirstName": "Sven ",
+      "contactLastName": "Ottlieb",
+      "country": "Germany",
+      "creditLimit": "0.00",
+      "customerName": "Warburg Exchange",
+      "postalCode": "52066",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "462": {
+      "addressLine1": "1785 First Street",
+      "addressLine2": "",
+      "city": "New Bedford",
+      "contactFirstName": "Violeta",
+      "contactLastName": "Benitez",
+      "country": "USA",
+      "creditLimit": "85800.00",
+      "customerName": "FunGiftIdeas.com",
+      "postalCode": "50553",
+      "salesRepEmployeeNumber": "1216",
+      "state": "MA"
+    },
+    "465": {
+      "addressLine1": "c/ Gobelas, 19-1 Urb. La Florida",
+      "addressLine2": "",
+      "city": "Madrid",
+      "contactFirstName": "Carmen",
+      "contactLastName": "Anton",
+      "country": "Spain",
+      "creditLimit": "0.00",
+      "customerName": "Anton Designs, Ltd.",
+      "postalCode": "28023",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "471": {
+      "addressLine1": "7 Allen Street",
+      "addressLine2": "",
+      "city": "Glen Waverly",
+      "contactFirstName": "Sean",
+      "contactLastName": "Clenahan",
+      "country": "Australia",
+      "creditLimit": "60300.00",
+      "customerName": "Australian Collectables, Ltd",
+      "postalCode": "3150",
+      "salesRepEmployeeNumber": "1611",
+      "state": "Victoria"
+    },
+    "473": {
+      "addressLine1": "20093 Cologno Monzese",
+      "addressLine2": "Alessandro Volta 16",
+      "city": "Milan",
+      "contactFirstName": "Franco",
+      "contactLastName": "Ricotti",
+      "country": "Italy",
+      "creditLimit": "34800.00",
+      "customerName": "Frau da Collezione",
+      "postalCode": "",
+      "salesRepEmployeeNumber": "1401",
+      "state": ""
+    },
+    "475": {
+      "addressLine1": "3675 Furth Circle",
+      "addressLine2": "",
+      "city": "Burbank",
+      "contactFirstName": "Steve",
+      "contactLastName": "Thompson",
+      "country": "USA",
+      "creditLimit": "55400.00",
+      "customerName": "West Coast Collectables Co.",
+      "postalCode": "94019",
+      "salesRepEmployeeNumber": "1166",
+      "state": "CA"
+    },
+    "477": {
+      "addressLine1": "Forsterstr. 57",
+      "addressLine2": "",
+      "city": "Mannheim",
+      "contactFirstName": "Hanna ",
+      "contactLastName": "Moos",
+      "country": "Germany",
+      "creditLimit": "0.00",
+      "customerName": "Mit Vergnügen & Co.",
+      "postalCode": "68306",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "480": {
+      "addressLine1": "2 Pobedy Square",
+      "addressLine2": "",
+      "city": "Saint Petersburg",
+      "contactFirstName": "Alexander ",
+      "contactLastName": "Semenov",
+      "country": "Russia",
+      "creditLimit": "0.00",
+      "customerName": "Kremlin Collectables, Co.",
+      "postalCode": "196143",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "481": {
+      "addressLine1": "3 Hagalim Blv.",
+      "addressLine2": "",
+      "city": "Herzlia",
+      "contactFirstName": "Raanan",
+      "contactLastName": "Altagar,G M",
+      "country": "Israel",
+      "creditLimit": "0.00",
+      "customerName": "Raanan Stores, Inc",
+      "postalCode": "47625",
+      "salesRepEmployeeNumber": "",
+      "state": ""
+    },
+    "484": {
+      "addressLine1": "C/ Romero, 33",
+      "addressLine2": "",
+      "city": "Sevilla",
+      "contactFirstName": "José Pedro ",
+      "contactLastName": "Roel",
+      "country": "Spain",
+      "creditLimit": "65700.00",
+      "customerName": "Iberia Gift Imports, Corp.",
+      "postalCode": "41101",
+      "salesRepEmployeeNumber": "1702",
+      "state": ""
+    },
+    "486": {
+      "addressLine1": "11328 Douglas Av.",
+      "addressLine2": "",
+      "city": "Philadelphia",
+      "contactFirstName": "Rosa",
+      "contactLastName": "Salazar",
+      "country": "USA",
+      "creditLimit": "72600.00",
+      "customerName": "Motor Mint Distributors Inc.",
+      "postalCode": "71270",
+      "salesRepEmployeeNumber": "1323",
+      "state": "PA"
+    },
+    "487": {
+      "addressLine1": "2793 Furth Circle",
+      "addressLine2": "",
+      "city": "Brisbane",
+      "contactFirstName": "Sue",
+      "contactLastName": "Taylor",
+      "country": "USA",
+      "creditLimit": "60300.00",
+      "customerName": "Signal Collectibles Ltd.",
+      "postalCode": "94217",
+      "salesRepEmployeeNumber": "1165",
+      "state": "CA"
+    },
+    "489": {
+      "addressLine1": "120 Hanover Sq.",
+      "addressLine2": "",
+      "city": "London",
+      "contactFirstName": "Thomas ",
+      "contactLastName": "Smith",
+      "country": "UK",
+      "creditLimit": "43300.00",
+      "customerName": "Double Decker Gift Stores, Ltd",
+      "postalCode": "WA1 1DP",
+      "salesRepEmployeeNumber": "1501",
+      "state": ""
+    },
+    "495": {
+      "addressLine1": "6251 Ingle Ln.",
+      "addressLine2": "",
+      "city": "Boston",
+      "contactFirstName": "Valarie",
+      "contactLastName": "Franco",
+      "country": "USA",
+      "creditLimit": "85100.00",
+      "customerName": "Diecast Collectables",
+      "postalCode": "51003",
+      "salesRepEmployeeNumber": "1188",
+      "state": "MA"
+    },
+    "496": {
+      "addressLine1": "Arenales 1938 3'A'",
+      "addressLine2": "",
+      "city": "Auckland  ",
+      "contactFirstName": "Tony",
+      "contactLastName": "Snowden",
+      "country": "New Zealand",
+      "creditLimit": "110000.00",
+      "customerName": "Kelly's Gift Shop",
+      "postalCode": "",
+      "salesRepEmployeeNumber": "1612",
+      "state": ""
+    }
+  },
+  "order": {
+    "10100": {
+      "comments": "",
+      "customerNumber": "363",
+      "orderDate": "2003-01-06",
+      "orderName": "10100",
+      "requiredDate": "2003-01-13",
+      "shippedDate": "2003-01-10",
+      "status": "Shipped"
+    },
+    "10101": {
+      "comments": "Check on availability.",
+      "customerNumber": "128",
+      "orderDate": "2003-01-09",
+      "orderName": "10101",
+      "requiredDate": "2003-01-18",
+      "shippedDate": "2003-01-11",
+      "status": "Shipped"
+    },
+    "10102": {
+      "comments": "",
+      "customerNumber": "181",
+      "orderDate": "2003-01-10",
+      "orderName": "10102",
+      "requiredDate": "2003-01-18",
+      "shippedDate": "2003-01-14",
+      "status": "Shipped"
+    },
+    "10103": {
+      "comments": "",
+      "customerNumber": "121",
+      "orderDate": "2003-01-29",
+      "orderName": "10103",
+      "requiredDate": "2003-02-07",
+      "shippedDate": "2003-02-02",
+      "status": "Shipped"
+    },
+    "10104": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2003-01-31",
+      "orderName": "10104",
+      "requiredDate": "2003-02-09",
+      "shippedDate": "2003-02-01",
+      "status": "Shipped"
+    },
+    "10105": {
+      "comments": "",
+      "customerNumber": "145",
+      "orderDate": "2003-02-11",
+      "orderName": "10105",
+      "requiredDate": "2003-02-21",
+      "shippedDate": "2003-02-12",
+      "status": "Shipped"
+    },
+    "10106": {
+      "comments": "",
+      "customerNumber": "278",
+      "orderDate": "2003-02-17",
+      "orderName": "10106",
+      "requiredDate": "2003-02-24",
+      "shippedDate": "2003-02-21",
+      "status": "Shipped"
+    },
+    "10107": {
+      "comments": "Difficult to negotiate with customer. We need more marketing materials",
+      "customerNumber": "131",
+      "orderDate": "2003-02-24",
+      "orderName": "10107",
+      "requiredDate": "2003-03-03",
+      "shippedDate": "2003-02-26",
+      "status": "Shipped"
+    },
+    "10108": {
+      "comments": "",
+      "customerNumber": "385",
+      "orderDate": "2003-03-03",
+      "orderName": "10108",
+      "requiredDate": "2003-03-12",
+      "shippedDate": "2003-03-08",
+      "status": "Shipped"
+    },
+    "10109": {
+      "comments": "Customer requested that FedEx Ground is used for this shipping",
+      "customerNumber": "486",
+      "orderDate": "2003-03-10",
+      "orderName": "10109",
+      "requiredDate": "2003-03-19",
+      "shippedDate": "2003-03-11",
+      "status": "Shipped"
+    },
+    "10110": {
+      "comments": "",
+      "customerNumber": "187",
+      "orderDate": "2003-03-18",
+      "orderName": "10110",
+      "requiredDate": "2003-03-24",
+      "shippedDate": "2003-03-20",
+      "status": "Shipped"
+    },
+    "10111": {
+      "comments": "",
+      "customerNumber": "129",
+      "orderDate": "2003-03-25",
+      "orderName": "10111",
+      "requiredDate": "2003-03-31",
+      "shippedDate": "2003-03-30",
+      "status": "Shipped"
+    },
+    "10112": {
+      "comments": "Customer requested that ad materials (such as posters, pamphlets) be included in the shippment",
+      "customerNumber": "144",
+      "orderDate": "2003-03-24",
+      "orderName": "10112",
+      "requiredDate": "2003-04-03",
+      "shippedDate": "2003-03-29",
+      "status": "Shipped"
+    },
+    "10113": {
+      "comments": "",
+      "customerNumber": "124",
+      "orderDate": "2003-03-26",
+      "orderName": "10113",
+      "requiredDate": "2003-04-02",
+      "shippedDate": "2003-03-27",
+      "status": "Shipped"
+    },
+    "10114": {
+      "comments": "",
+      "customerNumber": "172",
+      "orderDate": "2003-04-01",
+      "orderName": "10114",
+      "requiredDate": "2003-04-07",
+      "shippedDate": "2003-04-02",
+      "status": "Shipped"
+    },
+    "10115": {
+      "comments": "",
+      "customerNumber": "424",
+      "orderDate": "2003-04-04",
+      "orderName": "10115",
+      "requiredDate": "2003-04-12",
+      "shippedDate": "2003-04-07",
+      "status": "Shipped"
+    },
+    "10116": {
+      "comments": "",
+      "customerNumber": "381",
+      "orderDate": "2003-04-11",
+      "orderName": "10116",
+      "requiredDate": "2003-04-19",
+      "shippedDate": "2003-04-13",
+      "status": "Shipped"
+    },
+    "10117": {
+      "comments": "",
+      "customerNumber": "148",
+      "orderDate": "2003-04-16",
+      "orderName": "10117",
+      "requiredDate": "2003-04-24",
+      "shippedDate": "2003-04-17",
+      "status": "Shipped"
+    },
+    "10118": {
+      "comments": "Customer has worked with some of our vendors in the past and is aware of their MSRP",
+      "customerNumber": "216",
+      "orderDate": "2003-04-21",
+      "orderName": "10118",
+      "requiredDate": "2003-04-29",
+      "shippedDate": "2003-04-26",
+      "status": "Shipped"
+    },
+    "10119": {
+      "comments": "",
+      "customerNumber": "382",
+      "orderDate": "2003-04-28",
+      "orderName": "10119",
+      "requiredDate": "2003-05-05",
+      "shippedDate": "2003-05-02",
+      "status": "Shipped"
+    },
+    "10120": {
+      "comments": "",
+      "customerNumber": "114",
+      "orderDate": "2003-04-29",
+      "orderName": "10120",
+      "requiredDate": "2003-05-08",
+      "shippedDate": "2003-05-01",
+      "status": "Shipped"
+    },
+    "10121": {
+      "comments": "",
+      "customerNumber": "353",
+      "orderDate": "2003-05-07",
+      "orderName": "10121",
+      "requiredDate": "2003-05-13",
+      "shippedDate": "2003-05-13",
+      "status": "Shipped"
+    },
+    "10122": {
+      "comments": "",
+      "customerNumber": "350",
+      "orderDate": "2003-05-08",
+      "orderName": "10122",
+      "requiredDate": "2003-05-16",
+      "shippedDate": "2003-05-13",
+      "status": "Shipped"
+    },
+    "10123": {
+      "comments": "",
+      "customerNumber": "103",
+      "orderDate": "2003-05-20",
+      "orderName": "10123",
+      "requiredDate": "2003-05-29",
+      "shippedDate": "2003-05-22",
+      "status": "Shipped"
+    },
+    "10124": {
+      "comments": "Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch",
+      "customerNumber": "112",
+      "orderDate": "2003-05-21",
+      "orderName": "10124",
+      "requiredDate": "2003-05-29",
+      "shippedDate": "2003-05-25",
+      "status": "Shipped"
+    },
+    "10125": {
+      "comments": "",
+      "customerNumber": "114",
+      "orderDate": "2003-05-21",
+      "orderName": "10125",
+      "requiredDate": "2003-05-27",
+      "shippedDate": "2003-05-24",
+      "status": "Shipped"
+    },
+    "10126": {
+      "comments": "",
+      "customerNumber": "458",
+      "orderDate": "2003-05-28",
+      "orderName": "10126",
+      "requiredDate": "2003-06-07",
+      "shippedDate": "2003-06-02",
+      "status": "Shipped"
+    },
+    "10127": {
+      "comments": "Customer requested special shippment. The instructions were passed along to the warehouse",
+      "customerNumber": "151",
+      "orderDate": "2003-06-03",
+      "orderName": "10127",
+      "requiredDate": "2003-06-09",
+      "shippedDate": "2003-06-06",
+      "status": "Shipped"
+    },
+    "10128": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2003-06-06",
+      "orderName": "10128",
+      "requiredDate": "2003-06-12",
+      "shippedDate": "2003-06-11",
+      "status": "Shipped"
+    },
+    "10129": {
+      "comments": "",
+      "customerNumber": "324",
+      "orderDate": "2003-06-12",
+      "orderName": "10129",
+      "requiredDate": "2003-06-18",
+      "shippedDate": "2003-06-14",
+      "status": "Shipped"
+    },
+    "10130": {
+      "comments": "",
+      "customerNumber": "198",
+      "orderDate": "2003-06-16",
+      "orderName": "10130",
+      "requiredDate": "2003-06-24",
+      "shippedDate": "2003-06-21",
+      "status": "Shipped"
+    },
+    "10131": {
+      "comments": "",
+      "customerNumber": "447",
+      "orderDate": "2003-06-16",
+      "orderName": "10131",
+      "requiredDate": "2003-06-25",
+      "shippedDate": "2003-06-21",
+      "status": "Shipped"
+    },
+    "10132": {
+      "comments": "",
+      "customerNumber": "323",
+      "orderDate": "2003-06-25",
+      "orderName": "10132",
+      "requiredDate": "2003-07-01",
+      "shippedDate": "2003-06-28",
+      "status": "Shipped"
+    },
+    "10133": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2003-06-27",
+      "orderName": "10133",
+      "requiredDate": "2003-07-04",
+      "shippedDate": "2003-07-03",
+      "status": "Shipped"
+    },
+    "10134": {
+      "comments": "",
+      "customerNumber": "250",
+      "orderDate": "2003-07-01",
+      "orderName": "10134",
+      "requiredDate": "2003-07-10",
+      "shippedDate": "2003-07-05",
+      "status": "Shipped"
+    },
+    "10135": {
+      "comments": "",
+      "customerNumber": "124",
+      "orderDate": "2003-07-02",
+      "orderName": "10135",
+      "requiredDate": "2003-07-12",
+      "shippedDate": "2003-07-03",
+      "status": "Shipped"
+    },
+    "10136": {
+      "comments": "Customer is interested in buying more Ferrari models",
+      "customerNumber": "242",
+      "orderDate": "2003-07-04",
+      "orderName": "10136",
+      "requiredDate": "2003-07-14",
+      "shippedDate": "2003-07-06",
+      "status": "Shipped"
+    },
+    "10137": {
+      "comments": "",
+      "customerNumber": "353",
+      "orderDate": "2003-07-10",
+      "orderName": "10137",
+      "requiredDate": "2003-07-20",
+      "shippedDate": "2003-07-14",
+      "status": "Shipped"
+    },
+    "10138": {
+      "comments": "",
+      "customerNumber": "496",
+      "orderDate": "2003-07-07",
+      "orderName": "10138",
+      "requiredDate": "2003-07-16",
+      "shippedDate": "2003-07-13",
+      "status": "Shipped"
+    },
+    "10139": {
+      "comments": "",
+      "customerNumber": "282",
+      "orderDate": "2003-07-16",
+      "orderName": "10139",
+      "requiredDate": "2003-07-23",
+      "shippedDate": "2003-07-21",
+      "status": "Shipped"
+    },
+    "10140": {
+      "comments": "",
+      "customerNumber": "161",
+      "orderDate": "2003-07-24",
+      "orderName": "10140",
+      "requiredDate": "2003-08-02",
+      "shippedDate": "2003-07-30",
+      "status": "Shipped"
+    },
+    "10141": {
+      "comments": "",
+      "customerNumber": "334",
+      "orderDate": "2003-08-01",
+      "orderName": "10141",
+      "requiredDate": "2003-08-09",
+      "shippedDate": "2003-08-04",
+      "status": "Shipped"
+    },
+    "10142": {
+      "comments": "",
+      "customerNumber": "124",
+      "orderDate": "2003-08-08",
+      "orderName": "10142",
+      "requiredDate": "2003-08-16",
+      "shippedDate": "2003-08-13",
+      "status": "Shipped"
+    },
+    "10143": {
+      "comments": "Can we deliver the new Ford Mustang models by end-of-quarter?",
+      "customerNumber": "320",
+      "orderDate": "2003-08-10",
+      "orderName": "10143",
+      "requiredDate": "2003-08-18",
+      "shippedDate": "2003-08-12",
+      "status": "Shipped"
+    },
+    "10144": {
+      "comments": "",
+      "customerNumber": "381",
+      "orderDate": "2003-08-13",
+      "orderName": "10144",
+      "requiredDate": "2003-08-21",
+      "shippedDate": "2003-08-14",
+      "status": "Shipped"
+    },
+    "10145": {
+      "comments": "",
+      "customerNumber": "205",
+      "orderDate": "2003-08-25",
+      "orderName": "10145",
+      "requiredDate": "2003-09-02",
+      "shippedDate": "2003-08-31",
+      "status": "Shipped"
+    },
+    "10146": {
+      "comments": "",
+      "customerNumber": "447",
+      "orderDate": "2003-09-03",
+      "orderName": "10146",
+      "requiredDate": "2003-09-13",
+      "shippedDate": "2003-09-06",
+      "status": "Shipped"
+    },
+    "10147": {
+      "comments": "",
+      "customerNumber": "379",
+      "orderDate": "2003-09-05",
+      "orderName": "10147",
+      "requiredDate": "2003-09-12",
+      "shippedDate": "2003-09-09",
+      "status": "Shipped"
+    },
+    "10148": {
+      "comments": "They want to reevaluate their terms agreement with Finance.",
+      "customerNumber": "276",
+      "orderDate": "2003-09-11",
+      "orderName": "10148",
+      "requiredDate": "2003-09-21",
+      "shippedDate": "2003-09-15",
+      "status": "Shipped"
+    },
+    "10149": {
+      "comments": "",
+      "customerNumber": "487",
+      "orderDate": "2003-09-12",
+      "orderName": "10149",
+      "requiredDate": "2003-09-18",
+      "shippedDate": "2003-09-17",
+      "status": "Shipped"
+    },
+    "10150": {
+      "comments": "They want to reevaluate their terms agreement with Finance.",
+      "customerNumber": "148",
+      "orderDate": "2003-09-19",
+      "orderName": "10150",
+      "requiredDate": "2003-09-27",
+      "shippedDate": "2003-09-21",
+      "status": "Shipped"
+    },
+    "10151": {
+      "comments": "",
+      "customerNumber": "311",
+      "orderDate": "2003-09-21",
+      "orderName": "10151",
+      "requiredDate": "2003-09-30",
+      "shippedDate": "2003-09-24",
+      "status": "Shipped"
+    },
+    "10152": {
+      "comments": "",
+      "customerNumber": "333",
+      "orderDate": "2003-09-25",
+      "orderName": "10152",
+      "requiredDate": "2003-10-03",
+      "shippedDate": "2003-10-01",
+      "status": "Shipped"
+    },
+    "10153": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2003-09-28",
+      "orderName": "10153",
+      "requiredDate": "2003-10-05",
+      "shippedDate": "2003-10-03",
+      "status": "Shipped"
+    },
+    "10154": {
+      "comments": "",
+      "customerNumber": "219",
+      "orderDate": "2003-10-02",
+      "orderName": "10154",
+      "requiredDate": "2003-10-12",
+      "shippedDate": "2003-10-08",
+      "status": "Shipped"
+    },
+    "10155": {
+      "comments": "",
+      "customerNumber": "186",
+      "orderDate": "2003-10-06",
+      "orderName": "10155",
+      "requiredDate": "2003-10-13",
+      "shippedDate": "2003-10-07",
+      "status": "Shipped"
+    },
+    "10156": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2003-10-08",
+      "orderName": "10156",
+      "requiredDate": "2003-10-17",
+      "shippedDate": "2003-10-11",
+      "status": "Shipped"
+    },
+    "10157": {
+      "comments": "",
+      "customerNumber": "473",
+      "orderDate": "2003-10-09",
+      "orderName": "10157",
+      "requiredDate": "2003-10-15",
+      "shippedDate": "2003-10-14",
+      "status": "Shipped"
+    },
+    "10158": {
+      "comments": "",
+      "customerNumber": "121",
+      "orderDate": "2003-10-10",
+      "orderName": "10158",
+      "requiredDate": "2003-10-18",
+      "shippedDate": "2003-10-15",
+      "status": "Shipped"
+    },
+    "10159": {
+      "comments": "",
+      "customerNumber": "321",
+      "orderDate": "2003-10-10",
+      "orderName": "10159",
+      "requiredDate": "2003-10-19",
+      "shippedDate": "2003-10-16",
+      "status": "Shipped"
+    },
+    "10160": {
+      "comments": "",
+      "customerNumber": "347",
+      "orderDate": "2003-10-11",
+      "orderName": "10160",
+      "requiredDate": "2003-10-17",
+      "shippedDate": "2003-10-17",
+      "status": "Shipped"
+    },
+    "10161": {
+      "comments": "",
+      "customerNumber": "227",
+      "orderDate": "2003-10-17",
+      "orderName": "10161",
+      "requiredDate": "2003-10-25",
+      "shippedDate": "2003-10-20",
+      "status": "Shipped"
+    },
+    "10162": {
+      "comments": "",
+      "customerNumber": "321",
+      "orderDate": "2003-10-18",
+      "orderName": "10162",
+      "requiredDate": "2003-10-26",
+      "shippedDate": "2003-10-19",
+      "status": "Shipped"
+    },
+    "10163": {
+      "comments": "",
+      "customerNumber": "424",
+      "orderDate": "2003-10-20",
+      "orderName": "10163",
+      "requiredDate": "2003-10-27",
+      "shippedDate": "2003-10-24",
+      "status": "Shipped"
+    },
+    "10164": {
+      "comments": "This order was disputed, but resolved on 11/1/2003; Customer doesn't like the colors and precision of the models.",
+      "customerNumber": "452",
+      "orderDate": "2003-10-21",
+      "orderName": "10164",
+      "requiredDate": "2003-10-30",
+      "shippedDate": "2003-10-23",
+      "status": "Resolved"
+    },
+    "10165": {
+      "comments": "This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received",
+      "customerNumber": "148",
+      "orderDate": "2003-10-22",
+      "orderName": "10165",
+      "requiredDate": "2003-10-31",
+      "shippedDate": "2003-12-26",
+      "status": "Shipped"
+    },
+    "10166": {
+      "comments": "",
+      "customerNumber": "462",
+      "orderDate": "2003-10-21",
+      "orderName": "10166",
+      "requiredDate": "2003-10-30",
+      "shippedDate": "2003-10-27",
+      "status": "Shipped"
+    },
+    "10167": {
+      "comments": "Customer called to cancel. The warehouse was notified in time and the order didn't ship. They have a new VP of Sales and are shifting their sales model. Our VP of Sales should contact them.",
+      "customerNumber": "448",
+      "orderDate": "2003-10-23",
+      "orderName": "10167",
+      "requiredDate": "2003-10-30",
+      "shippedDate": "",
+      "status": "Cancelled"
+    },
+    "10168": {
+      "comments": "",
+      "customerNumber": "161",
+      "orderDate": "2003-10-28",
+      "orderName": "10168",
+      "requiredDate": "2003-11-03",
+      "shippedDate": "2003-11-01",
+      "status": "Shipped"
+    },
+    "10169": {
+      "comments": "",
+      "customerNumber": "276",
+      "orderDate": "2003-11-04",
+      "orderName": "10169",
+      "requiredDate": "2003-11-14",
+      "shippedDate": "2003-11-09",
+      "status": "Shipped"
+    },
+    "10170": {
+      "comments": "",
+      "customerNumber": "452",
+      "orderDate": "2003-11-04",
+      "orderName": "10170",
+      "requiredDate": "2003-11-12",
+      "shippedDate": "2003-11-07",
+      "status": "Shipped"
+    },
+    "10171": {
+      "comments": "",
+      "customerNumber": "233",
+      "orderDate": "2003-11-05",
+      "orderName": "10171",
+      "requiredDate": "2003-11-13",
+      "shippedDate": "2003-11-07",
+      "status": "Shipped"
+    },
+    "10172": {
+      "comments": "",
+      "customerNumber": "175",
+      "orderDate": "2003-11-05",
+      "orderName": "10172",
+      "requiredDate": "2003-11-14",
+      "shippedDate": "2003-11-11",
+      "status": "Shipped"
+    },
+    "10173": {
+      "comments": "Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches",
+      "customerNumber": "278",
+      "orderDate": "2003-11-05",
+      "orderName": "10173",
+      "requiredDate": "2003-11-15",
+      "shippedDate": "2003-11-09",
+      "status": "Shipped"
+    },
+    "10174": {
+      "comments": "",
+      "customerNumber": "333",
+      "orderDate": "2003-11-06",
+      "orderName": "10174",
+      "requiredDate": "2003-11-15",
+      "shippedDate": "2003-11-10",
+      "status": "Shipped"
+    },
+    "10175": {
+      "comments": "",
+      "customerNumber": "324",
+      "orderDate": "2003-11-06",
+      "orderName": "10175",
+      "requiredDate": "2003-11-14",
+      "shippedDate": "2003-11-09",
+      "status": "Shipped"
+    },
+    "10176": {
+      "comments": "",
+      "customerNumber": "386",
+      "orderDate": "2003-11-06",
+      "orderName": "10176",
+      "requiredDate": "2003-11-15",
+      "shippedDate": "2003-11-12",
+      "status": "Shipped"
+    },
+    "10177": {
+      "comments": "",
+      "customerNumber": "344",
+      "orderDate": "2003-11-07",
+      "orderName": "10177",
+      "requiredDate": "2003-11-17",
+      "shippedDate": "2003-11-12",
+      "status": "Shipped"
+    },
+    "10178": {
+      "comments": "Custom shipping instructions sent to warehouse",
+      "customerNumber": "242",
+      "orderDate": "2003-11-08",
+      "orderName": "10178",
+      "requiredDate": "2003-11-16",
+      "shippedDate": "2003-11-10",
+      "status": "Shipped"
+    },
+    "10179": {
+      "comments": "Customer cancelled due to urgent budgeting issues. Must be cautious when dealing with them in the future. Since order shipped already we must discuss who would cover the shipping charges.",
+      "customerNumber": "496",
+      "orderDate": "2003-11-11",
+      "orderName": "10179",
+      "requiredDate": "2003-11-17",
+      "shippedDate": "2003-11-13",
+      "status": "Cancelled"
+    },
+    "10180": {
+      "comments": "",
+      "customerNumber": "171",
+      "orderDate": "2003-11-11",
+      "orderName": "10180",
+      "requiredDate": "2003-11-19",
+      "shippedDate": "2003-11-14",
+      "status": "Shipped"
+    },
+    "10181": {
+      "comments": "",
+      "customerNumber": "167",
+      "orderDate": "2003-11-12",
+      "orderName": "10181",
+      "requiredDate": "2003-11-19",
+      "shippedDate": "2003-11-15",
+      "status": "Shipped"
+    },
+    "10182": {
+      "comments": "",
+      "customerNumber": "124",
+      "orderDate": "2003-11-12",
+      "orderName": "10182",
+      "requiredDate": "2003-11-21",
+      "shippedDate": "2003-11-18",
+      "status": "Shipped"
+    },
+    "10183": {
+      "comments": "We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases.",
+      "customerNumber": "339",
+      "orderDate": "2003-11-13",
+      "orderName": "10183",
+      "requiredDate": "2003-11-22",
+      "shippedDate": "2003-11-15",
+      "status": "Shipped"
+    },
+    "10184": {
+      "comments": "",
+      "customerNumber": "484",
+      "orderDate": "2003-11-14",
+      "orderName": "10184",
+      "requiredDate": "2003-11-22",
+      "shippedDate": "2003-11-20",
+      "status": "Shipped"
+    },
+    "10185": {
+      "comments": "",
+      "customerNumber": "320",
+      "orderDate": "2003-11-14",
+      "orderName": "10185",
+      "requiredDate": "2003-11-21",
+      "shippedDate": "2003-11-20",
+      "status": "Shipped"
+    },
+    "10186": {
+      "comments": "They want to reevaluate their terms agreement with the VP of Sales",
+      "customerNumber": "489",
+      "orderDate": "2003-11-14",
+      "orderName": "10186",
+      "requiredDate": "2003-11-20",
+      "shippedDate": "2003-11-18",
+      "status": "Shipped"
+    },
+    "10187": {
+      "comments": "",
+      "customerNumber": "211",
+      "orderDate": "2003-11-15",
+      "orderName": "10187",
+      "requiredDate": "2003-11-24",
+      "shippedDate": "2003-11-16",
+      "status": "Shipped"
+    },
+    "10188": {
+      "comments": "",
+      "customerNumber": "167",
+      "orderDate": "2003-11-18",
+      "orderName": "10188",
+      "requiredDate": "2003-11-26",
+      "shippedDate": "2003-11-24",
+      "status": "Shipped"
+    },
+    "10189": {
+      "comments": "They want to reevaluate their terms agreement with Finance.",
+      "customerNumber": "205",
+      "orderDate": "2003-11-18",
+      "orderName": "10189",
+      "requiredDate": "2003-11-25",
+      "shippedDate": "2003-11-24",
+      "status": "Shipped"
+    },
+    "10190": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2003-11-19",
+      "orderName": "10190",
+      "requiredDate": "2003-11-29",
+      "shippedDate": "2003-11-20",
+      "status": "Shipped"
+    },
+    "10191": {
+      "comments": "We must be cautions with this customer. Their VP of Sales resigned. Company may be heading down.",
+      "customerNumber": "259",
+      "orderDate": "2003-11-20",
+      "orderName": "10191",
+      "requiredDate": "2003-11-30",
+      "shippedDate": "2003-11-24",
+      "status": "Shipped"
+    },
+    "10192": {
+      "comments": "",
+      "customerNumber": "363",
+      "orderDate": "2003-11-20",
+      "orderName": "10192",
+      "requiredDate": "2003-11-29",
+      "shippedDate": "2003-11-25",
+      "status": "Shipped"
+    },
+    "10193": {
+      "comments": "",
+      "customerNumber": "471",
+      "orderDate": "2003-11-21",
+      "orderName": "10193",
+      "requiredDate": "2003-11-28",
+      "shippedDate": "2003-11-27",
+      "status": "Shipped"
+    },
+    "10194": {
+      "comments": "",
+      "customerNumber": "146",
+      "orderDate": "2003-11-25",
+      "orderName": "10194",
+      "requiredDate": "2003-12-02",
+      "shippedDate": "2003-11-26",
+      "status": "Shipped"
+    },
+    "10195": {
+      "comments": "",
+      "customerNumber": "319",
+      "orderDate": "2003-11-25",
+      "orderName": "10195",
+      "requiredDate": "2003-12-01",
+      "shippedDate": "2003-11-28",
+      "status": "Shipped"
+    },
+    "10196": {
+      "comments": "",
+      "customerNumber": "455",
+      "orderDate": "2003-11-26",
+      "orderName": "10196",
+      "requiredDate": "2003-12-03",
+      "shippedDate": "2003-12-01",
+      "status": "Shipped"
+    },
+    "10197": {
+      "comments": "Customer inquired about remote controlled models and gold models.",
+      "customerNumber": "216",
+      "orderDate": "2003-11-26",
+      "orderName": "10197",
+      "requiredDate": "2003-12-02",
+      "shippedDate": "2003-12-01",
+      "status": "Shipped"
+    },
+    "10198": {
+      "comments": "",
+      "customerNumber": "385",
+      "orderDate": "2003-11-27",
+      "orderName": "10198",
+      "requiredDate": "2003-12-06",
+      "shippedDate": "2003-12-03",
+      "status": "Shipped"
+    },
+    "10199": {
+      "comments": "",
+      "customerNumber": "475",
+      "orderDate": "2003-12-01",
+      "orderName": "10199",
+      "requiredDate": "2003-12-10",
+      "shippedDate": "2003-12-06",
+      "status": "Shipped"
+    },
+    "10200": {
+      "comments": "",
+      "customerNumber": "211",
+      "orderDate": "2003-12-01",
+      "orderName": "10200",
+      "requiredDate": "2003-12-09",
+      "shippedDate": "2003-12-06",
+      "status": "Shipped"
+    },
+    "10201": {
+      "comments": "",
+      "customerNumber": "129",
+      "orderDate": "2003-12-01",
+      "orderName": "10201",
+      "requiredDate": "2003-12-11",
+      "shippedDate": "2003-12-02",
+      "status": "Shipped"
+    },
+    "10202": {
+      "comments": "",
+      "customerNumber": "357",
+      "orderDate": "2003-12-02",
+      "orderName": "10202",
+      "requiredDate": "2003-12-09",
+      "shippedDate": "2003-12-06",
+      "status": "Shipped"
+    },
+    "10203": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2003-12-02",
+      "orderName": "10203",
+      "requiredDate": "2003-12-11",
+      "shippedDate": "2003-12-07",
+      "status": "Shipped"
+    },
+    "10204": {
+      "comments": "",
+      "customerNumber": "151",
+      "orderDate": "2003-12-02",
+      "orderName": "10204",
+      "requiredDate": "2003-12-10",
+      "shippedDate": "2003-12-04",
+      "status": "Shipped"
+    },
+    "10205": {
+      "comments": " I need all the information I can get on our competitors.",
+      "customerNumber": "141",
+      "orderDate": "2003-12-03",
+      "orderName": "10205",
+      "requiredDate": "2003-12-09",
+      "shippedDate": "2003-12-07",
+      "status": "Shipped"
+    },
+    "10206": {
+      "comments": "Can we renegotiate this one?",
+      "customerNumber": "202",
+      "orderDate": "2003-12-05",
+      "orderName": "10206",
+      "requiredDate": "2003-12-13",
+      "shippedDate": "2003-12-08",
+      "status": "Shipped"
+    },
+    "10207": {
+      "comments": "Check on availability.",
+      "customerNumber": "495",
+      "orderDate": "2003-12-09",
+      "orderName": "10207",
+      "requiredDate": "2003-12-17",
+      "shippedDate": "2003-12-11",
+      "status": "Shipped"
+    },
+    "10208": {
+      "comments": "",
+      "customerNumber": "146",
+      "orderDate": "2004-01-02",
+      "orderName": "10208",
+      "requiredDate": "2004-01-11",
+      "shippedDate": "2004-01-04",
+      "status": "Shipped"
+    },
+    "10209": {
+      "comments": "",
+      "customerNumber": "347",
+      "orderDate": "2004-01-09",
+      "orderName": "10209",
+      "requiredDate": "2004-01-15",
+      "shippedDate": "2004-01-12",
+      "status": "Shipped"
+    },
+    "10210": {
+      "comments": "",
+      "customerNumber": "177",
+      "orderDate": "2004-01-12",
+      "orderName": "10210",
+      "requiredDate": "2004-01-22",
+      "shippedDate": "2004-01-20",
+      "status": "Shipped"
+    },
+    "10211": {
+      "comments": "",
+      "customerNumber": "406",
+      "orderDate": "2004-01-15",
+      "orderName": "10211",
+      "requiredDate": "2004-01-25",
+      "shippedDate": "2004-01-18",
+      "status": "Shipped"
+    },
+    "10212": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2004-01-16",
+      "orderName": "10212",
+      "requiredDate": "2004-01-24",
+      "shippedDate": "2004-01-18",
+      "status": "Shipped"
+    },
+    "10213": {
+      "comments": "Difficult to negotiate with customer. We need more marketing materials",
+      "customerNumber": "489",
+      "orderDate": "2004-01-22",
+      "orderName": "10213",
+      "requiredDate": "2004-01-28",
+      "shippedDate": "2004-01-27",
+      "status": "Shipped"
+    },
+    "10214": {
+      "comments": "",
+      "customerNumber": "458",
+      "orderDate": "2004-01-26",
+      "orderName": "10214",
+      "requiredDate": "2004-02-04",
+      "shippedDate": "2004-01-29",
+      "status": "Shipped"
+    },
+    "10215": {
+      "comments": "Customer requested that FedEx Ground is used for this shipping",
+      "customerNumber": "475",
+      "orderDate": "2004-01-29",
+      "orderName": "10215",
+      "requiredDate": "2004-02-08",
+      "shippedDate": "2004-02-01",
+      "status": "Shipped"
+    },
+    "10216": {
+      "comments": "",
+      "customerNumber": "256",
+      "orderDate": "2004-02-02",
+      "orderName": "10216",
+      "requiredDate": "2004-02-10",
+      "shippedDate": "2004-02-04",
+      "status": "Shipped"
+    },
+    "10217": {
+      "comments": "",
+      "customerNumber": "166",
+      "orderDate": "2004-02-04",
+      "orderName": "10217",
+      "requiredDate": "2004-02-14",
+      "shippedDate": "2004-02-06",
+      "status": "Shipped"
+    },
+    "10218": {
+      "comments": "Customer requested that ad materials (such as posters, pamphlets) be included in the shippment",
+      "customerNumber": "473",
+      "orderDate": "2004-02-09",
+      "orderName": "10218",
+      "requiredDate": "2004-02-16",
+      "shippedDate": "2004-02-11",
+      "status": "Shipped"
+    },
+    "10219": {
+      "comments": "",
+      "customerNumber": "487",
+      "orderDate": "2004-02-10",
+      "orderName": "10219",
+      "requiredDate": "2004-02-17",
+      "shippedDate": "2004-02-12",
+      "status": "Shipped"
+    },
+    "10220": {
+      "comments": "",
+      "customerNumber": "189",
+      "orderDate": "2004-02-12",
+      "orderName": "10220",
+      "requiredDate": "2004-02-19",
+      "shippedDate": "2004-02-16",
+      "status": "Shipped"
+    },
+    "10221": {
+      "comments": "",
+      "customerNumber": "314",
+      "orderDate": "2004-02-18",
+      "orderName": "10221",
+      "requiredDate": "2004-02-26",
+      "shippedDate": "2004-02-19",
+      "status": "Shipped"
+    },
+    "10222": {
+      "comments": "",
+      "customerNumber": "239",
+      "orderDate": "2004-02-19",
+      "orderName": "10222",
+      "requiredDate": "2004-02-27",
+      "shippedDate": "2004-02-20",
+      "status": "Shipped"
+    },
+    "10223": {
+      "comments": "",
+      "customerNumber": "114",
+      "orderDate": "2004-02-20",
+      "orderName": "10223",
+      "requiredDate": "2004-02-29",
+      "shippedDate": "2004-02-24",
+      "status": "Shipped"
+    },
+    "10224": {
+      "comments": "Customer has worked with some of our vendors in the past and is aware of their MSRP",
+      "customerNumber": "171",
+      "orderDate": "2004-02-21",
+      "orderName": "10224",
+      "requiredDate": "2004-03-02",
+      "shippedDate": "2004-02-26",
+      "status": "Shipped"
+    },
+    "10225": {
+      "comments": "",
+      "customerNumber": "298",
+      "orderDate": "2004-02-22",
+      "orderName": "10225",
+      "requiredDate": "2004-03-01",
+      "shippedDate": "2004-02-24",
+      "status": "Shipped"
+    },
+    "10226": {
+      "comments": "",
+      "customerNumber": "239",
+      "orderDate": "2004-02-26",
+      "orderName": "10226",
+      "requiredDate": "2004-03-06",
+      "shippedDate": "2004-03-02",
+      "status": "Shipped"
+    },
+    "10227": {
+      "comments": "",
+      "customerNumber": "146",
+      "orderDate": "2004-03-02",
+      "orderName": "10227",
+      "requiredDate": "2004-03-12",
+      "shippedDate": "2004-03-08",
+      "status": "Shipped"
+    },
+    "10228": {
+      "comments": "",
+      "customerNumber": "173",
+      "orderDate": "2004-03-10",
+      "orderName": "10228",
+      "requiredDate": "2004-03-18",
+      "shippedDate": "2004-03-13",
+      "status": "Shipped"
+    },
+    "10229": {
+      "comments": "",
+      "customerNumber": "124",
+      "orderDate": "2004-03-11",
+      "orderName": "10229",
+      "requiredDate": "2004-03-20",
+      "shippedDate": "2004-03-12",
+      "status": "Shipped"
+    },
+    "10230": {
+      "comments": "Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch",
+      "customerNumber": "128",
+      "orderDate": "2004-03-15",
+      "orderName": "10230",
+      "requiredDate": "2004-03-24",
+      "shippedDate": "2004-03-20",
+      "status": "Shipped"
+    },
+    "10231": {
+      "comments": "",
+      "customerNumber": "344",
+      "orderDate": "2004-03-19",
+      "orderName": "10231",
+      "requiredDate": "2004-03-26",
+      "shippedDate": "2004-03-25",
+      "status": "Shipped"
+    },
+    "10232": {
+      "comments": "",
+      "customerNumber": "240",
+      "orderDate": "2004-03-20",
+      "orderName": "10232",
+      "requiredDate": "2004-03-30",
+      "shippedDate": "2004-03-25",
+      "status": "Shipped"
+    },
+    "10233": {
+      "comments": "Customer requested special shippment. The instructions were passed along to the warehouse",
+      "customerNumber": "328",
+      "orderDate": "2004-03-29",
+      "orderName": "10233",
+      "requiredDate": "2004-04-04",
+      "shippedDate": "2004-04-02",
+      "status": "Shipped"
+    },
+    "10234": {
+      "comments": "",
+      "customerNumber": "412",
+      "orderDate": "2004-03-30",
+      "orderName": "10234",
+      "requiredDate": "2004-04-05",
+      "shippedDate": "2004-04-02",
+      "status": "Shipped"
+    },
+    "10235": {
+      "comments": "",
+      "customerNumber": "260",
+      "orderDate": "2004-04-02",
+      "orderName": "10235",
+      "requiredDate": "2004-04-12",
+      "shippedDate": "2004-04-06",
+      "status": "Shipped"
+    },
+    "10236": {
+      "comments": "",
+      "customerNumber": "486",
+      "orderDate": "2004-04-03",
+      "orderName": "10236",
+      "requiredDate": "2004-04-11",
+      "shippedDate": "2004-04-08",
+      "status": "Shipped"
+    },
+    "10237": {
+      "comments": "",
+      "customerNumber": "181",
+      "orderDate": "2004-04-05",
+      "orderName": "10237",
+      "requiredDate": "2004-04-12",
+      "shippedDate": "2004-04-10",
+      "status": "Shipped"
+    },
+    "10238": {
+      "comments": "",
+      "customerNumber": "145",
+      "orderDate": "2004-04-09",
+      "orderName": "10238",
+      "requiredDate": "2004-04-16",
+      "shippedDate": "2004-04-10",
+      "status": "Shipped"
+    },
+    "10239": {
+      "comments": "",
+      "customerNumber": "311",
+      "orderDate": "2004-04-12",
+      "orderName": "10239",
+      "requiredDate": "2004-04-21",
+      "shippedDate": "2004-04-17",
+      "status": "Shipped"
+    },
+    "10240": {
+      "comments": "",
+      "customerNumber": "177",
+      "orderDate": "2004-04-13",
+      "orderName": "10240",
+      "requiredDate": "2004-04-20",
+      "shippedDate": "2004-04-20",
+      "status": "Shipped"
+    },
+    "10241": {
+      "comments": "",
+      "customerNumber": "209",
+      "orderDate": "2004-04-13",
+      "orderName": "10241",
+      "requiredDate": "2004-04-20",
+      "shippedDate": "2004-04-19",
+      "status": "Shipped"
+    },
+    "10242": {
+      "comments": "Customer is interested in buying more Ferrari models",
+      "customerNumber": "456",
+      "orderDate": "2004-04-20",
+      "orderName": "10242",
+      "requiredDate": "2004-04-28",
+      "shippedDate": "2004-04-25",
+      "status": "Shipped"
+    },
+    "10243": {
+      "comments": "",
+      "customerNumber": "495",
+      "orderDate": "2004-04-26",
+      "orderName": "10243",
+      "requiredDate": "2004-05-03",
+      "shippedDate": "2004-04-28",
+      "status": "Shipped"
+    },
+    "10244": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2004-04-29",
+      "orderName": "10244",
+      "requiredDate": "2004-05-09",
+      "shippedDate": "2004-05-04",
+      "status": "Shipped"
+    },
+    "10245": {
+      "comments": "",
+      "customerNumber": "455",
+      "orderDate": "2004-05-04",
+      "orderName": "10245",
+      "requiredDate": "2004-05-12",
+      "shippedDate": "2004-05-09",
+      "status": "Shipped"
+    },
+    "10246": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2004-05-05",
+      "orderName": "10246",
+      "requiredDate": "2004-05-13",
+      "shippedDate": "2004-05-06",
+      "status": "Shipped"
+    },
+    "10247": {
+      "comments": "",
+      "customerNumber": "334",
+      "orderDate": "2004-05-05",
+      "orderName": "10247",
+      "requiredDate": "2004-05-11",
+      "shippedDate": "2004-05-08",
+      "status": "Shipped"
+    },
+    "10248": {
+      "comments": "Order was mistakenly placed. The warehouse noticed the lack of documentation.",
+      "customerNumber": "131",
+      "orderDate": "2004-05-07",
+      "orderName": "10248",
+      "requiredDate": "2004-05-14",
+      "shippedDate": "",
+      "status": "Cancelled"
+    },
+    "10249": {
+      "comments": "Can we deliver the new Ford Mustang models by end-of-quarter?",
+      "customerNumber": "173",
+      "orderDate": "2004-05-08",
+      "orderName": "10249",
+      "requiredDate": "2004-05-17",
+      "shippedDate": "2004-05-11",
+      "status": "Shipped"
+    },
+    "10250": {
+      "comments": "",
+      "customerNumber": "450",
+      "orderDate": "2004-05-11",
+      "orderName": "10250",
+      "requiredDate": "2004-05-19",
+      "shippedDate": "2004-05-15",
+      "status": "Shipped"
+    },
+    "10251": {
+      "comments": "",
+      "customerNumber": "328",
+      "orderDate": "2004-05-18",
+      "orderName": "10251",
+      "requiredDate": "2004-05-24",
+      "shippedDate": "2004-05-24",
+      "status": "Shipped"
+    },
+    "10252": {
+      "comments": "",
+      "customerNumber": "406",
+      "orderDate": "2004-05-26",
+      "orderName": "10252",
+      "requiredDate": "2004-06-04",
+      "shippedDate": "2004-05-29",
+      "status": "Shipped"
+    },
+    "10253": {
+      "comments": "Customer disputed the order and we agreed to cancel it. We must be more cautions with this customer going forward, since they are very hard to please. We must cover the shipping fees.",
+      "customerNumber": "201",
+      "orderDate": "2004-06-01",
+      "orderName": "10253",
+      "requiredDate": "2004-06-09",
+      "shippedDate": "2004-06-02",
+      "status": "Cancelled"
+    },
+    "10254": {
+      "comments": "Customer requested that DHL is used for this shipping",
+      "customerNumber": "323",
+      "orderDate": "2004-06-03",
+      "orderName": "10254",
+      "requiredDate": "2004-06-13",
+      "shippedDate": "2004-06-04",
+      "status": "Shipped"
+    },
+    "10255": {
+      "comments": "",
+      "customerNumber": "209",
+      "orderDate": "2004-06-04",
+      "orderName": "10255",
+      "requiredDate": "2004-06-12",
+      "shippedDate": "2004-06-09",
+      "status": "Shipped"
+    },
+    "10256": {
+      "comments": "",
+      "customerNumber": "145",
+      "orderDate": "2004-06-08",
+      "orderName": "10256",
+      "requiredDate": "2004-06-16",
+      "shippedDate": "2004-06-10",
+      "status": "Shipped"
+    },
+    "10257": {
+      "comments": "",
+      "customerNumber": "450",
+      "orderDate": "2004-06-14",
+      "orderName": "10257",
+      "requiredDate": "2004-06-24",
+      "shippedDate": "2004-06-15",
+      "status": "Shipped"
+    },
+    "10258": {
+      "comments": "",
+      "customerNumber": "398",
+      "orderDate": "2004-06-15",
+      "orderName": "10258",
+      "requiredDate": "2004-06-25",
+      "shippedDate": "2004-06-23",
+      "status": "Shipped"
+    },
+    "10259": {
+      "comments": "",
+      "customerNumber": "166",
+      "orderDate": "2004-06-15",
+      "orderName": "10259",
+      "requiredDate": "2004-06-22",
+      "shippedDate": "2004-06-17",
+      "status": "Shipped"
+    },
+    "10260": {
+      "comments": "Customer heard complaints from their customers and called to cancel this order. Will notify the Sales Manager.",
+      "customerNumber": "357",
+      "orderDate": "2004-06-16",
+      "orderName": "10260",
+      "requiredDate": "2004-06-22",
+      "shippedDate": "",
+      "status": "Cancelled"
+    },
+    "10261": {
+      "comments": "",
+      "customerNumber": "233",
+      "orderDate": "2004-06-17",
+      "orderName": "10261",
+      "requiredDate": "2004-06-25",
+      "shippedDate": "2004-06-22",
+      "status": "Shipped"
+    },
+    "10262": {
+      "comments": "This customer found a better offer from one of our competitors. Will call back to renegotiate.",
+      "customerNumber": "141",
+      "orderDate": "2004-06-24",
+      "orderName": "10262",
+      "requiredDate": "2004-07-01",
+      "shippedDate": "",
+      "status": "Cancelled"
+    },
+    "10263": {
+      "comments": "",
+      "customerNumber": "175",
+      "orderDate": "2004-06-28",
+      "orderName": "10263",
+      "requiredDate": "2004-07-04",
+      "shippedDate": "2004-07-02",
+      "status": "Shipped"
+    },
+    "10264": {
+      "comments": "Customer will send a truck to our local warehouse on 7/1/2004",
+      "customerNumber": "362",
+      "orderDate": "2004-06-30",
+      "orderName": "10264",
+      "requiredDate": "2004-07-06",
+      "shippedDate": "2004-07-01",
+      "status": "Shipped"
+    },
+    "10265": {
+      "comments": "",
+      "customerNumber": "471",
+      "orderDate": "2004-07-02",
+      "orderName": "10265",
+      "requiredDate": "2004-07-09",
+      "shippedDate": "2004-07-07",
+      "status": "Shipped"
+    },
+    "10266": {
+      "comments": "",
+      "customerNumber": "386",
+      "orderDate": "2004-07-06",
+      "orderName": "10266",
+      "requiredDate": "2004-07-14",
+      "shippedDate": "2004-07-10",
+      "status": "Shipped"
+    },
+    "10267": {
+      "comments": "",
+      "customerNumber": "151",
+      "orderDate": "2004-07-07",
+      "orderName": "10267",
+      "requiredDate": "2004-07-17",
+      "shippedDate": "2004-07-09",
+      "status": "Shipped"
+    },
+    "10268": {
+      "comments": "",
+      "customerNumber": "412",
+      "orderDate": "2004-07-12",
+      "orderName": "10268",
+      "requiredDate": "2004-07-18",
+      "shippedDate": "2004-07-14",
+      "status": "Shipped"
+    },
+    "10269": {
+      "comments": "",
+      "customerNumber": "382",
+      "orderDate": "2004-07-16",
+      "orderName": "10269",
+      "requiredDate": "2004-07-22",
+      "shippedDate": "2004-07-18",
+      "status": "Shipped"
+    },
+    "10270": {
+      "comments": "Can we renegotiate this one?",
+      "customerNumber": "282",
+      "orderDate": "2004-07-19",
+      "orderName": "10270",
+      "requiredDate": "2004-07-27",
+      "shippedDate": "2004-07-24",
+      "status": "Shipped"
+    },
+    "10271": {
+      "comments": "",
+      "customerNumber": "124",
+      "orderDate": "2004-07-20",
+      "orderName": "10271",
+      "requiredDate": "2004-07-29",
+      "shippedDate": "2004-07-23",
+      "status": "Shipped"
+    },
+    "10272": {
+      "comments": "",
+      "customerNumber": "157",
+      "orderDate": "2004-07-20",
+      "orderName": "10272",
+      "requiredDate": "2004-07-26",
+      "shippedDate": "2004-07-22",
+      "status": "Shipped"
+    },
+    "10273": {
+      "comments": "",
+      "customerNumber": "314",
+      "orderDate": "2004-07-21",
+      "orderName": "10273",
+      "requiredDate": "2004-07-28",
+      "shippedDate": "2004-07-22",
+      "status": "Shipped"
+    },
+    "10274": {
+      "comments": "",
+      "customerNumber": "379",
+      "orderDate": "2004-07-21",
+      "orderName": "10274",
+      "requiredDate": "2004-07-29",
+      "shippedDate": "2004-07-22",
+      "status": "Shipped"
+    },
+    "10275": {
+      "comments": "",
+      "customerNumber": "119",
+      "orderDate": "2004-07-23",
+      "orderName": "10275",
+      "requiredDate": "2004-08-02",
+      "shippedDate": "2004-07-29",
+      "status": "Shipped"
+    },
+    "10276": {
+      "comments": "",
+      "customerNumber": "204",
+      "orderDate": "2004-08-02",
+      "orderName": "10276",
+      "requiredDate": "2004-08-11",
+      "shippedDate": "2004-08-08",
+      "status": "Shipped"
+    },
+    "10277": {
+      "comments": "",
+      "customerNumber": "148",
+      "orderDate": "2004-08-04",
+      "orderName": "10277",
+      "requiredDate": "2004-08-12",
+      "shippedDate": "2004-08-05",
+      "status": "Shipped"
+    },
+    "10278": {
+      "comments": "",
+      "customerNumber": "112",
+      "orderDate": "2004-08-06",
+      "orderName": "10278",
+      "requiredDate": "2004-08-16",
+      "shippedDate": "2004-08-09",
+      "status": "Shipped"
+    },
+    "10279": {
+      "comments": "Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches",
+      "customerNumber": "141",
+      "orderDate": "2004-08-09",
+      "orderName": "10279",
+      "requiredDate": "2004-08-19",
+      "shippedDate": "2004-08-15",
+      "status": "Shipped"
+    },
+    "10280": {
+      "comments": "",
+      "customerNumber": "249",
+      "orderDate": "2004-08-17",
+      "orderName": "10280",
+      "requiredDate": "2004-08-27",
+      "shippedDate": "2004-08-19",
+      "status": "Shipped"
+    },
+    "10281": {
+      "comments": "",
+      "customerNumber": "157",
+      "orderDate": "2004-08-19",
+      "orderName": "10281",
+      "requiredDate": "2004-08-28",
+      "shippedDate": "2004-08-23",
+      "status": "Shipped"
+    },
+    "10282": {
+      "comments": "",
+      "customerNumber": "124",
+      "orderDate": "2004-08-20",
+      "orderName": "10282",
+      "requiredDate": "2004-08-26",
+      "shippedDate": "2004-08-22",
+      "status": "Shipped"
+    },
+    "10283": {
+      "comments": "",
+      "customerNumber": "260",
+      "orderDate": "2004-08-20",
+      "orderName": "10283",
+      "requiredDate": "2004-08-30",
+      "shippedDate": "2004-08-23",
+      "status": "Shipped"
+    },
+    "10284": {
+      "comments": "Custom shipping instructions sent to warehouse",
+      "customerNumber": "299",
+      "orderDate": "2004-08-21",
+      "orderName": "10284",
+      "requiredDate": "2004-08-29",
+      "shippedDate": "2004-08-26",
+      "status": "Shipped"
+    },
+    "10285": {
+      "comments": "",
+      "customerNumber": "286",
+      "orderDate": "2004-08-27",
+      "orderName": "10285",
+      "requiredDate": "2004-09-04",
+      "shippedDate": "2004-08-31",
+      "status": "Shipped"
+    },
+    "10286": {
+      "comments": "",
+      "customerNumber": "172",
+      "orderDate": "2004-08-28",
+      "orderName": "10286",
+      "requiredDate": "2004-09-06",
+      "shippedDate": "2004-09-01",
+      "status": "Shipped"
+    },
+    "10287": {
+      "comments": "",
+      "customerNumber": "298",
+      "orderDate": "2004-08-30",
+      "orderName": "10287",
+      "requiredDate": "2004-09-06",
+      "shippedDate": "2004-09-01",
+      "status": "Shipped"
+    },
+    "10288": {
+      "comments": "",
+      "customerNumber": "166",
+      "orderDate": "2004-09-01",
+      "orderName": "10288",
+      "requiredDate": "2004-09-11",
+      "shippedDate": "2004-09-05",
+      "status": "Shipped"
+    },
+    "10289": {
+      "comments": "We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases.",
+      "customerNumber": "167",
+      "orderDate": "2004-09-03",
+      "orderName": "10289",
+      "requiredDate": "2004-09-13",
+      "shippedDate": "2004-09-04",
+      "status": "Shipped"
+    },
+    "10290": {
+      "comments": "",
+      "customerNumber": "198",
+      "orderDate": "2004-09-07",
+      "orderName": "10290",
+      "requiredDate": "2004-09-15",
+      "shippedDate": "2004-09-13",
+      "status": "Shipped"
+    },
+    "10291": {
+      "comments": "",
+      "customerNumber": "448",
+      "orderDate": "2004-09-08",
+      "orderName": "10291",
+      "requiredDate": "2004-09-17",
+      "shippedDate": "2004-09-14",
+      "status": "Shipped"
+    },
+    "10292": {
+      "comments": "They want to reevaluate their terms agreement with Finance.",
+      "customerNumber": "131",
+      "orderDate": "2004-09-08",
+      "orderName": "10292",
+      "requiredDate": "2004-09-18",
+      "shippedDate": "2004-09-11",
+      "status": "Shipped"
+    },
+    "10293": {
+      "comments": "",
+      "customerNumber": "249",
+      "orderDate": "2004-09-09",
+      "orderName": "10293",
+      "requiredDate": "2004-09-18",
+      "shippedDate": "2004-09-14",
+      "status": "Shipped"
+    },
+    "10294": {
+      "comments": "",
+      "customerNumber": "204",
+      "orderDate": "2004-09-10",
+      "orderName": "10294",
+      "requiredDate": "2004-09-17",
+      "shippedDate": "2004-09-14",
+      "status": "Shipped"
+    },
+    "10295": {
+      "comments": "They want to reevaluate their terms agreement with Finance.",
+      "customerNumber": "362",
+      "orderDate": "2004-09-10",
+      "orderName": "10295",
+      "requiredDate": "2004-09-17",
+      "shippedDate": "2004-09-14",
+      "status": "Shipped"
+    },
+    "10296": {
+      "comments": "",
+      "customerNumber": "415",
+      "orderDate": "2004-09-15",
+      "orderName": "10296",
+      "requiredDate": "2004-09-22",
+      "shippedDate": "2004-09-16",
+      "status": "Shipped"
+    },
+    "10297": {
+      "comments": "We must be cautions with this customer. Their VP of Sales resigned. Company may be heading down.",
+      "customerNumber": "189",
+      "orderDate": "2004-09-16",
+      "orderName": "10297",
+      "requiredDate": "2004-09-22",
+      "shippedDate": "2004-09-21",
+      "status": "Shipped"
+    },
+    "10298": {
+      "comments": "",
+      "customerNumber": "103",
+      "orderDate": "2004-09-27",
+      "orderName": "10298",
+      "requiredDate": "2004-10-05",
+      "shippedDate": "2004-10-01",
+      "status": "Shipped"
+    },
+    "10299": {
+      "comments": "",
+      "customerNumber": "186",
+      "orderDate": "2004-09-30",
+      "orderName": "10299",
+      "requiredDate": "2004-10-10",
+      "shippedDate": "2004-10-01",
+      "status": "Shipped"
+    },
+    "10300": {
+      "comments": "",
+      "customerNumber": "128",
+      "orderDate": "2003-10-04",
+      "orderName": "10300",
+      "requiredDate": "2003-10-13",
+      "shippedDate": "2003-10-09",
+      "status": "Shipped"
+    },
+    "10301": {
+      "comments": "",
+      "customerNumber": "299",
+      "orderDate": "2003-10-05",
+      "orderName": "10301",
+      "requiredDate": "2003-10-15",
+      "shippedDate": "2003-10-08",
+      "status": "Shipped"
+    },
+    "10302": {
+      "comments": "",
+      "customerNumber": "201",
+      "orderDate": "2003-10-06",
+      "orderName": "10302",
+      "requiredDate": "2003-10-16",
+      "shippedDate": "2003-10-07",
+      "status": "Shipped"
+    },
+    "10303": {
+      "comments": "Customer inquired about remote controlled models and gold models.",
+      "customerNumber": "484",
+      "orderDate": "2004-10-06",
+      "orderName": "10303",
+      "requiredDate": "2004-10-14",
+      "shippedDate": "2004-10-09",
+      "status": "Shipped"
+    },
+    "10304": {
+      "comments": "",
+      "customerNumber": "256",
+      "orderDate": "2004-10-11",
+      "orderName": "10304",
+      "requiredDate": "2004-10-20",
+      "shippedDate": "2004-10-17",
+      "status": "Shipped"
+    },
+    "10305": {
+      "comments": "Check on availability.",
+      "customerNumber": "286",
+      "orderDate": "2004-10-13",
+      "orderName": "10305",
+      "requiredDate": "2004-10-22",
+      "shippedDate": "2004-10-15",
+      "status": "Shipped"
+    },
+    "10306": {
+      "comments": "",
+      "customerNumber": "187",
+      "orderDate": "2004-10-14",
+      "orderName": "10306",
+      "requiredDate": "2004-10-21",
+      "shippedDate": "2004-10-17",
+      "status": "Shipped"
+    },
+    "10307": {
+      "comments": "",
+      "customerNumber": "339",
+      "orderDate": "2004-10-14",
+      "orderName": "10307",
+      "requiredDate": "2004-10-23",
+      "shippedDate": "2004-10-20",
+      "status": "Shipped"
+    },
+    "10308": {
+      "comments": "Customer requested that FedEx Ground is used for this shipping",
+      "customerNumber": "319",
+      "orderDate": "2004-10-15",
+      "orderName": "10308",
+      "requiredDate": "2004-10-24",
+      "shippedDate": "2004-10-20",
+      "status": "Shipped"
+    },
+    "10309": {
+      "comments": "",
+      "customerNumber": "121",
+      "orderDate": "2004-10-15",
+      "orderName": "10309",
+      "requiredDate": "2004-10-24",
+      "shippedDate": "2004-10-18",
+      "status": "Shipped"
+    },
+    "10310": {
+      "comments": "",
+      "customerNumber": "259",
+      "orderDate": "2004-10-16",
+      "orderName": "10310",
+      "requiredDate": "2004-10-24",
+      "shippedDate": "2004-10-18",
+      "status": "Shipped"
+    },
+    "10311": {
+      "comments": "Difficult to negotiate with customer. We need more marketing materials",
+      "customerNumber": "141",
+      "orderDate": "2004-10-16",
+      "orderName": "10311",
+      "requiredDate": "2004-10-23",
+      "shippedDate": "2004-10-20",
+      "status": "Shipped"
+    },
+    "10312": {
+      "comments": "",
+      "customerNumber": "124",
+      "orderDate": "2004-10-21",
+      "orderName": "10312",
+      "requiredDate": "2004-10-27",
+      "shippedDate": "2004-10-23",
+      "status": "Shipped"
+    },
+    "10313": {
+      "comments": "Customer requested that FedEx Ground is used for this shipping",
+      "customerNumber": "202",
+      "orderDate": "2004-10-22",
+      "orderName": "10313",
+      "requiredDate": "2004-10-28",
+      "shippedDate": "2004-10-25",
+      "status": "Shipped"
+    },
+    "10314": {
+      "comments": "",
+      "customerNumber": "227",
+      "orderDate": "2004-10-22",
+      "orderName": "10314",
+      "requiredDate": "2004-11-01",
+      "shippedDate": "2004-10-23",
+      "status": "Shipped"
+    },
+    "10315": {
+      "comments": "",
+      "customerNumber": "119",
+      "orderDate": "2004-10-29",
+      "orderName": "10315",
+      "requiredDate": "2004-11-08",
+      "shippedDate": "2004-10-30",
+      "status": "Shipped"
+    },
+    "10316": {
+      "comments": "Customer requested that ad materials (such as posters, pamphlets) be included in the shippment",
+      "customerNumber": "240",
+      "orderDate": "2004-11-01",
+      "orderName": "10316",
+      "requiredDate": "2004-11-09",
+      "shippedDate": "2004-11-07",
+      "status": "Shipped"
+    },
+    "10317": {
+      "comments": "",
+      "customerNumber": "161",
+      "orderDate": "2004-11-02",
+      "orderName": "10317",
+      "requiredDate": "2004-11-12",
+      "shippedDate": "2004-11-08",
+      "status": "Shipped"
+    },
+    "10318": {
+      "comments": "",
+      "customerNumber": "157",
+      "orderDate": "2004-11-02",
+      "orderName": "10318",
+      "requiredDate": "2004-11-09",
+      "shippedDate": "2004-11-07",
+      "status": "Shipped"
+    },
+    "10319": {
+      "comments": "Customer requested that DHL is used for this shipping",
+      "customerNumber": "456",
+      "orderDate": "2004-11-03",
+      "orderName": "10319",
+      "requiredDate": "2004-11-11",
+      "shippedDate": "2004-11-06",
+      "status": "Shipped"
+    },
+    "10320": {
+      "comments": "",
+      "customerNumber": "144",
+      "orderDate": "2004-11-03",
+      "orderName": "10320",
+      "requiredDate": "2004-11-13",
+      "shippedDate": "2004-11-07",
+      "status": "Shipped"
+    },
+    "10321": {
+      "comments": "",
+      "customerNumber": "462",
+      "orderDate": "2004-11-04",
+      "orderName": "10321",
+      "requiredDate": "2004-11-12",
+      "shippedDate": "2004-11-07",
+      "status": "Shipped"
+    },
+    "10322": {
+      "comments": "Customer has worked with some of our vendors in the past and is aware of their MSRP",
+      "customerNumber": "363",
+      "orderDate": "2004-11-04",
+      "orderName": "10322",
+      "requiredDate": "2004-11-12",
+      "shippedDate": "2004-11-10",
+      "status": "Shipped"
+    },
+    "10323": {
+      "comments": "",
+      "customerNumber": "128",
+      "orderDate": "2004-11-05",
+      "orderName": "10323",
+      "requiredDate": "2004-11-12",
+      "shippedDate": "2004-11-09",
+      "status": "Shipped"
+    },
+    "10324": {
+      "comments": "",
+      "customerNumber": "181",
+      "orderDate": "2004-11-05",
+      "orderName": "10324",
+      "requiredDate": "2004-11-11",
+      "shippedDate": "2004-11-08",
+      "status": "Shipped"
+    },
+    "10325": {
+      "comments": "",
+      "customerNumber": "121",
+      "orderDate": "2004-11-05",
+      "orderName": "10325",
+      "requiredDate": "2004-11-13",
+      "shippedDate": "2004-11-08",
+      "status": "Shipped"
+    },
+    "10326": {
+      "comments": "",
+      "customerNumber": "144",
+      "orderDate": "2004-11-09",
+      "orderName": "10326",
+      "requiredDate": "2004-11-16",
+      "shippedDate": "2004-11-10",
+      "status": "Shipped"
+    },
+    "10327": {
+      "comments": "Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed.",
+      "customerNumber": "145",
+      "orderDate": "2004-11-10",
+      "orderName": "10327",
+      "requiredDate": "2004-11-19",
+      "shippedDate": "2004-11-13",
+      "status": "Resolved"
+    },
+    "10328": {
+      "comments": "Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch",
+      "customerNumber": "278",
+      "orderDate": "2004-11-12",
+      "orderName": "10328",
+      "requiredDate": "2004-11-21",
+      "shippedDate": "2004-11-18",
+      "status": "Shipped"
+    },
+    "10329": {
+      "comments": "",
+      "customerNumber": "131",
+      "orderDate": "2004-11-15",
+      "orderName": "10329",
+      "requiredDate": "2004-11-24",
+      "shippedDate": "2004-11-16",
+      "status": "Shipped"
+    },
+    "10330": {
+      "comments": "",
+      "customerNumber": "385",
+      "orderDate": "2004-11-16",
+      "orderName": "10330",
+      "requiredDate": "2004-11-25",
+      "shippedDate": "2004-11-21",
+      "status": "Shipped"
+    },
+    "10331": {
+      "comments": "Customer requested special shippment. The instructions were passed along to the warehouse",
+      "customerNumber": "486",
+      "orderDate": "2004-11-17",
+      "orderName": "10331",
+      "requiredDate": "2004-11-23",
+      "shippedDate": "2004-11-23",
+      "status": "Shipped"
+    },
+    "10332": {
+      "comments": "",
+      "customerNumber": "187",
+      "orderDate": "2004-11-17",
+      "orderName": "10332",
+      "requiredDate": "2004-11-25",
+      "shippedDate": "2004-11-18",
+      "status": "Shipped"
+    },
+    "10333": {
+      "comments": "",
+      "customerNumber": "129",
+      "orderDate": "2004-11-18",
+      "orderName": "10333",
+      "requiredDate": "2004-11-27",
+      "shippedDate": "2004-11-20",
+      "status": "Shipped"
+    },
+    "10334": {
+      "comments": "The outstaniding balance for this customer exceeds their credit limit. Order will be shipped when a payment is received.",
+      "customerNumber": "144",
+      "orderDate": "2004-11-19",
+      "orderName": "10334",
+      "requiredDate": "2004-11-28",
+      "shippedDate": "",
+      "status": "On Hold"
+    },
+    "10335": {
+      "comments": "",
+      "customerNumber": "124",
+      "orderDate": "2004-11-19",
+      "orderName": "10335",
+      "requiredDate": "2004-11-29",
+      "shippedDate": "2004-11-23",
+      "status": "Shipped"
+    },
+    "10336": {
+      "comments": "Customer requested that DHL is used for this shipping",
+      "customerNumber": "172",
+      "orderDate": "2004-11-20",
+      "orderName": "10336",
+      "requiredDate": "2004-11-26",
+      "shippedDate": "2004-11-24",
+      "status": "Shipped"
+    },
+    "10337": {
+      "comments": "",
+      "customerNumber": "424",
+      "orderDate": "2004-11-21",
+      "orderName": "10337",
+      "requiredDate": "2004-11-30",
+      "shippedDate": "2004-11-26",
+      "status": "Shipped"
+    },
+    "10338": {
+      "comments": "",
+      "customerNumber": "381",
+      "orderDate": "2004-11-22",
+      "orderName": "10338",
+      "requiredDate": "2004-12-02",
+      "shippedDate": "2004-11-27",
+      "status": "Shipped"
+    },
+    "10339": {
+      "comments": "",
+      "customerNumber": "398",
+      "orderDate": "2004-11-23",
+      "orderName": "10339",
+      "requiredDate": "2004-11-30",
+      "shippedDate": "2004-11-30",
+      "status": "Shipped"
+    },
+    "10340": {
+      "comments": "Customer is interested in buying more Ferrari models",
+      "customerNumber": "216",
+      "orderDate": "2004-11-24",
+      "orderName": "10340",
+      "requiredDate": "2004-12-01",
+      "shippedDate": "2004-11-25",
+      "status": "Shipped"
+    },
+    "10341": {
+      "comments": "",
+      "customerNumber": "382",
+      "orderDate": "2004-11-24",
+      "orderName": "10341",
+      "requiredDate": "2004-12-01",
+      "shippedDate": "2004-11-29",
+      "status": "Shipped"
+    },
+    "10342": {
+      "comments": "",
+      "customerNumber": "114",
+      "orderDate": "2004-11-24",
+      "orderName": "10342",
+      "requiredDate": "2004-12-01",
+      "shippedDate": "2004-11-29",
+      "status": "Shipped"
+    },
+    "10343": {
+      "comments": "",
+      "customerNumber": "353",
+      "orderDate": "2004-11-24",
+      "orderName": "10343",
+      "requiredDate": "2004-12-01",
+      "shippedDate": "2004-11-26",
+      "status": "Shipped"
+    },
+    "10344": {
+      "comments": "",
+      "customerNumber": "350",
+      "orderDate": "2004-11-25",
+      "orderName": "10344",
+      "requiredDate": "2004-12-02",
+      "shippedDate": "2004-11-29",
+      "status": "Shipped"
+    },
+    "10345": {
+      "comments": "",
+      "customerNumber": "103",
+      "orderDate": "2004-11-25",
+      "orderName": "10345",
+      "requiredDate": "2004-12-01",
+      "shippedDate": "2004-11-26",
+      "status": "Shipped"
+    },
+    "10346": {
+      "comments": "",
+      "customerNumber": "112",
+      "orderDate": "2004-11-29",
+      "orderName": "10346",
+      "requiredDate": "2004-12-05",
+      "shippedDate": "2004-11-30",
+      "status": "Shipped"
+    },
+    "10347": {
+      "comments": "Can we deliver the new Ford Mustang models by end-of-quarter?",
+      "customerNumber": "114",
+      "orderDate": "2004-11-29",
+      "orderName": "10347",
+      "requiredDate": "2004-12-07",
+      "shippedDate": "2004-11-30",
+      "status": "Shipped"
+    },
+    "10348": {
+      "comments": "",
+      "customerNumber": "458",
+      "orderDate": "2004-11-01",
+      "orderName": "10348",
+      "requiredDate": "2004-11-08",
+      "shippedDate": "2004-11-05",
+      "status": "Shipped"
+    },
+    "10349": {
+      "comments": "",
+      "customerNumber": "151",
+      "orderDate": "2004-12-01",
+      "orderName": "10349",
+      "requiredDate": "2004-12-07",
+      "shippedDate": "2004-12-03",
+      "status": "Shipped"
+    },
+    "10350": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2004-12-02",
+      "orderName": "10350",
+      "requiredDate": "2004-12-08",
+      "shippedDate": "2004-12-05",
+      "status": "Shipped"
+    },
+    "10351": {
+      "comments": "",
+      "customerNumber": "324",
+      "orderDate": "2004-12-03",
+      "orderName": "10351",
+      "requiredDate": "2004-12-11",
+      "shippedDate": "2004-12-07",
+      "status": "Shipped"
+    },
+    "10352": {
+      "comments": "",
+      "customerNumber": "198",
+      "orderDate": "2004-12-03",
+      "orderName": "10352",
+      "requiredDate": "2004-12-12",
+      "shippedDate": "2004-12-09",
+      "status": "Shipped"
+    },
+    "10353": {
+      "comments": "",
+      "customerNumber": "447",
+      "orderDate": "2004-12-04",
+      "orderName": "10353",
+      "requiredDate": "2004-12-11",
+      "shippedDate": "2004-12-05",
+      "status": "Shipped"
+    },
+    "10354": {
+      "comments": "",
+      "customerNumber": "323",
+      "orderDate": "2004-12-04",
+      "orderName": "10354",
+      "requiredDate": "2004-12-10",
+      "shippedDate": "2004-12-05",
+      "status": "Shipped"
+    },
+    "10355": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2004-12-07",
+      "orderName": "10355",
+      "requiredDate": "2004-12-14",
+      "shippedDate": "2004-12-13",
+      "status": "Shipped"
+    },
+    "10356": {
+      "comments": "",
+      "customerNumber": "250",
+      "orderDate": "2004-12-09",
+      "orderName": "10356",
+      "requiredDate": "2004-12-15",
+      "shippedDate": "2004-12-12",
+      "status": "Shipped"
+    },
+    "10357": {
+      "comments": "",
+      "customerNumber": "124",
+      "orderDate": "2004-12-10",
+      "orderName": "10357",
+      "requiredDate": "2004-12-16",
+      "shippedDate": "2004-12-14",
+      "status": "Shipped"
+    },
+    "10358": {
+      "comments": "Customer requested that DHL is used for this shipping",
+      "customerNumber": "141",
+      "orderDate": "2004-12-10",
+      "orderName": "10358",
+      "requiredDate": "2004-12-16",
+      "shippedDate": "2004-12-16",
+      "status": "Shipped"
+    },
+    "10359": {
+      "comments": "",
+      "customerNumber": "353",
+      "orderDate": "2004-12-15",
+      "orderName": "10359",
+      "requiredDate": "2004-12-23",
+      "shippedDate": "2004-12-18",
+      "status": "Shipped"
+    },
+    "10360": {
+      "comments": "",
+      "customerNumber": "496",
+      "orderDate": "2004-12-16",
+      "orderName": "10360",
+      "requiredDate": "2004-12-22",
+      "shippedDate": "2004-12-18",
+      "status": "Shipped"
+    },
+    "10361": {
+      "comments": "",
+      "customerNumber": "282",
+      "orderDate": "2004-12-17",
+      "orderName": "10361",
+      "requiredDate": "2004-12-24",
+      "shippedDate": "2004-12-20",
+      "status": "Shipped"
+    },
+    "10362": {
+      "comments": "",
+      "customerNumber": "161",
+      "orderDate": "2005-01-05",
+      "orderName": "10362",
+      "requiredDate": "2005-01-16",
+      "shippedDate": "2005-01-10",
+      "status": "Shipped"
+    },
+    "10363": {
+      "comments": "",
+      "customerNumber": "334",
+      "orderDate": "2005-01-06",
+      "orderName": "10363",
+      "requiredDate": "2005-01-12",
+      "shippedDate": "2005-01-10",
+      "status": "Shipped"
+    },
+    "10364": {
+      "comments": "",
+      "customerNumber": "350",
+      "orderDate": "2005-01-06",
+      "orderName": "10364",
+      "requiredDate": "2005-01-17",
+      "shippedDate": "2005-01-09",
+      "status": "Shipped"
+    },
+    "10365": {
+      "comments": "",
+      "customerNumber": "320",
+      "orderDate": "2005-01-07",
+      "orderName": "10365",
+      "requiredDate": "2005-01-18",
+      "shippedDate": "2005-01-11",
+      "status": "Shipped"
+    },
+    "10366": {
+      "comments": "",
+      "customerNumber": "381",
+      "orderDate": "2005-01-10",
+      "orderName": "10366",
+      "requiredDate": "2005-01-19",
+      "shippedDate": "2005-01-12",
+      "status": "Shipped"
+    },
+    "10367": {
+      "comments": "This order was disputed and resolved on 2/1/2005. Customer claimed that container with shipment was damaged. FedEx's investigation proved this wrong.",
+      "customerNumber": "205",
+      "orderDate": "2005-01-12",
+      "orderName": "10367",
+      "requiredDate": "2005-01-21",
+      "shippedDate": "2005-01-16",
+      "status": "Resolved"
+    },
+    "10368": {
+      "comments": "Can we renegotiate this one?",
+      "customerNumber": "124",
+      "orderDate": "2005-01-19",
+      "orderName": "10368",
+      "requiredDate": "2005-01-27",
+      "shippedDate": "2005-01-24",
+      "status": "Shipped"
+    },
+    "10369": {
+      "comments": "",
+      "customerNumber": "379",
+      "orderDate": "2005-01-20",
+      "orderName": "10369",
+      "requiredDate": "2005-01-28",
+      "shippedDate": "2005-01-24",
+      "status": "Shipped"
+    },
+    "10370": {
+      "comments": "",
+      "customerNumber": "276",
+      "orderDate": "2005-01-20",
+      "orderName": "10370",
+      "requiredDate": "2005-02-01",
+      "shippedDate": "2005-01-25",
+      "status": "Shipped"
+    },
+    "10371": {
+      "comments": "",
+      "customerNumber": "124",
+      "orderDate": "2005-01-23",
+      "orderName": "10371",
+      "requiredDate": "2005-02-03",
+      "shippedDate": "2005-01-25",
+      "status": "Shipped"
+    },
+    "10372": {
+      "comments": "",
+      "customerNumber": "398",
+      "orderDate": "2005-01-26",
+      "orderName": "10372",
+      "requiredDate": "2005-02-05",
+      "shippedDate": "2005-01-28",
+      "status": "Shipped"
+    },
+    "10373": {
+      "comments": "",
+      "customerNumber": "311",
+      "orderDate": "2005-01-31",
+      "orderName": "10373",
+      "requiredDate": "2005-02-08",
+      "shippedDate": "2005-02-06",
+      "status": "Shipped"
+    },
+    "10374": {
+      "comments": "",
+      "customerNumber": "333",
+      "orderDate": "2005-02-02",
+      "orderName": "10374",
+      "requiredDate": "2005-02-09",
+      "shippedDate": "2005-02-03",
+      "status": "Shipped"
+    },
+    "10375": {
+      "comments": "",
+      "customerNumber": "119",
+      "orderDate": "2005-02-03",
+      "orderName": "10375",
+      "requiredDate": "2005-02-10",
+      "shippedDate": "2005-02-06",
+      "status": "Shipped"
+    },
+    "10376": {
+      "comments": "",
+      "customerNumber": "219",
+      "orderDate": "2005-02-08",
+      "orderName": "10376",
+      "requiredDate": "2005-02-18",
+      "shippedDate": "2005-02-13",
+      "status": "Shipped"
+    },
+    "10377": {
+      "comments": "Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches",
+      "customerNumber": "186",
+      "orderDate": "2005-02-09",
+      "orderName": "10377",
+      "requiredDate": "2005-02-21",
+      "shippedDate": "2005-02-12",
+      "status": "Shipped"
+    },
+    "10378": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2005-02-10",
+      "orderName": "10378",
+      "requiredDate": "2005-02-18",
+      "shippedDate": "2005-02-11",
+      "status": "Shipped"
+    },
+    "10379": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2005-02-10",
+      "orderName": "10379",
+      "requiredDate": "2005-02-18",
+      "shippedDate": "2005-02-11",
+      "status": "Shipped"
+    },
+    "10380": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2005-02-16",
+      "orderName": "10380",
+      "requiredDate": "2005-02-24",
+      "shippedDate": "2005-02-18",
+      "status": "Shipped"
+    },
+    "10381": {
+      "comments": "",
+      "customerNumber": "321",
+      "orderDate": "2005-02-17",
+      "orderName": "10381",
+      "requiredDate": "2005-02-25",
+      "shippedDate": "2005-02-18",
+      "status": "Shipped"
+    },
+    "10382": {
+      "comments": "Custom shipping instructions sent to warehouse",
+      "customerNumber": "124",
+      "orderDate": "2005-02-17",
+      "orderName": "10382",
+      "requiredDate": "2005-02-23",
+      "shippedDate": "2005-02-18",
+      "status": "Shipped"
+    },
+    "10383": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2005-02-22",
+      "orderName": "10383",
+      "requiredDate": "2005-03-02",
+      "shippedDate": "2005-02-25",
+      "status": "Shipped"
+    },
+    "10384": {
+      "comments": "",
+      "customerNumber": "321",
+      "orderDate": "2005-02-23",
+      "orderName": "10384",
+      "requiredDate": "2005-03-06",
+      "shippedDate": "2005-02-27",
+      "status": "Shipped"
+    },
+    "10385": {
+      "comments": "",
+      "customerNumber": "124",
+      "orderDate": "2005-02-28",
+      "orderName": "10385",
+      "requiredDate": "2005-03-09",
+      "shippedDate": "2005-03-01",
+      "status": "Shipped"
+    },
+    "10386": {
+      "comments": "Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models.",
+      "customerNumber": "141",
+      "orderDate": "2005-03-01",
+      "orderName": "10386",
+      "requiredDate": "2005-03-09",
+      "shippedDate": "2005-03-06",
+      "status": "Resolved"
+    },
+    "10387": {
+      "comments": "We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases.",
+      "customerNumber": "148",
+      "orderDate": "2005-03-02",
+      "orderName": "10387",
+      "requiredDate": "2005-03-09",
+      "shippedDate": "2005-03-06",
+      "status": "Shipped"
+    },
+    "10388": {
+      "comments": "",
+      "customerNumber": "462",
+      "orderDate": "2005-03-03",
+      "orderName": "10388",
+      "requiredDate": "2005-03-11",
+      "shippedDate": "2005-03-09",
+      "status": "Shipped"
+    },
+    "10389": {
+      "comments": "",
+      "customerNumber": "448",
+      "orderDate": "2005-03-03",
+      "orderName": "10389",
+      "requiredDate": "2005-03-09",
+      "shippedDate": "2005-03-08",
+      "status": "Shipped"
+    },
+    "10390": {
+      "comments": "They want to reevaluate their terms agreement with Finance.",
+      "customerNumber": "124",
+      "orderDate": "2005-03-04",
+      "orderName": "10390",
+      "requiredDate": "2005-03-11",
+      "shippedDate": "2005-03-07",
+      "status": "Shipped"
+    },
+    "10391": {
+      "comments": "",
+      "customerNumber": "276",
+      "orderDate": "2005-03-09",
+      "orderName": "10391",
+      "requiredDate": "2005-03-20",
+      "shippedDate": "2005-03-15",
+      "status": "Shipped"
+    },
+    "10392": {
+      "comments": "",
+      "customerNumber": "452",
+      "orderDate": "2005-03-10",
+      "orderName": "10392",
+      "requiredDate": "2005-03-18",
+      "shippedDate": "2005-03-12",
+      "status": "Shipped"
+    },
+    "10393": {
+      "comments": "They want to reevaluate their terms agreement with Finance.",
+      "customerNumber": "323",
+      "orderDate": "2005-03-11",
+      "orderName": "10393",
+      "requiredDate": "2005-03-22",
+      "shippedDate": "2005-03-14",
+      "status": "Shipped"
+    },
+    "10394": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2005-03-15",
+      "orderName": "10394",
+      "requiredDate": "2005-03-25",
+      "shippedDate": "2005-03-19",
+      "status": "Shipped"
+    },
+    "10395": {
+      "comments": "We must be cautions with this customer. Their VP of Sales resigned. Company may be heading down.",
+      "customerNumber": "250",
+      "orderDate": "2005-03-17",
+      "orderName": "10395",
+      "requiredDate": "2005-03-24",
+      "shippedDate": "2005-03-23",
+      "status": "Shipped"
+    },
+    "10396": {
+      "comments": "",
+      "customerNumber": "124",
+      "orderDate": "2005-03-23",
+      "orderName": "10396",
+      "requiredDate": "2005-04-02",
+      "shippedDate": "2005-03-28",
+      "status": "Shipped"
+    },
+    "10397": {
+      "comments": "",
+      "customerNumber": "242",
+      "orderDate": "2005-03-28",
+      "orderName": "10397",
+      "requiredDate": "2005-04-09",
+      "shippedDate": "2005-04-01",
+      "status": "Shipped"
+    },
+    "10398": {
+      "comments": "",
+      "customerNumber": "353",
+      "orderDate": "2005-03-30",
+      "orderName": "10398",
+      "requiredDate": "2005-04-09",
+      "shippedDate": "2005-03-31",
+      "status": "Shipped"
+    },
+    "10399": {
+      "comments": "",
+      "customerNumber": "496",
+      "orderDate": "2005-04-01",
+      "orderName": "10399",
+      "requiredDate": "2005-04-12",
+      "shippedDate": "2005-04-03",
+      "status": "Shipped"
+    },
+    "10400": {
+      "comments": "Customer requested that DHL is used for this shipping",
+      "customerNumber": "450",
+      "orderDate": "2005-04-01",
+      "orderName": "10400",
+      "requiredDate": "2005-04-11",
+      "shippedDate": "2005-04-04",
+      "status": "Shipped"
+    },
+    "10401": {
+      "comments": "Customer credit limit exceeded. Will ship when a payment is received.",
+      "customerNumber": "328",
+      "orderDate": "2005-04-03",
+      "orderName": "10401",
+      "requiredDate": "2005-04-14",
+      "shippedDate": "",
+      "status": "On Hold"
+    },
+    "10402": {
+      "comments": "",
+      "customerNumber": "406",
+      "orderDate": "2005-04-07",
+      "orderName": "10402",
+      "requiredDate": "2005-04-14",
+      "shippedDate": "2005-04-12",
+      "status": "Shipped"
+    },
+    "10403": {
+      "comments": "",
+      "customerNumber": "201",
+      "orderDate": "2005-04-08",
+      "orderName": "10403",
+      "requiredDate": "2005-04-18",
+      "shippedDate": "2005-04-11",
+      "status": "Shipped"
+    },
+    "10404": {
+      "comments": "",
+      "customerNumber": "323",
+      "orderDate": "2005-04-08",
+      "orderName": "10404",
+      "requiredDate": "2005-04-14",
+      "shippedDate": "2005-04-11",
+      "status": "Shipped"
+    },
+    "10405": {
+      "comments": "",
+      "customerNumber": "209",
+      "orderDate": "2005-04-14",
+      "orderName": "10405",
+      "requiredDate": "2005-04-24",
+      "shippedDate": "2005-04-20",
+      "status": "Shipped"
+    },
+    "10406": {
+      "comments": "Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this.",
+      "customerNumber": "145",
+      "orderDate": "2005-04-15",
+      "orderName": "10406",
+      "requiredDate": "2005-04-25",
+      "shippedDate": "2005-04-21",
+      "status": "Disputed"
+    },
+    "10407": {
+      "comments": "Customer credit limit exceeded. Will ship when a payment is received.",
+      "customerNumber": "450",
+      "orderDate": "2005-04-22",
+      "orderName": "10407",
+      "requiredDate": "2005-05-04",
+      "shippedDate": "",
+      "status": "On Hold"
+    },
+    "10408": {
+      "comments": "",
+      "customerNumber": "398",
+      "orderDate": "2005-04-22",
+      "orderName": "10408",
+      "requiredDate": "2005-04-29",
+      "shippedDate": "2005-04-27",
+      "status": "Shipped"
+    },
+    "10409": {
+      "comments": "",
+      "customerNumber": "166",
+      "orderDate": "2005-04-23",
+      "orderName": "10409",
+      "requiredDate": "2005-05-05",
+      "shippedDate": "2005-04-24",
+      "status": "Shipped"
+    },
+    "10410": {
+      "comments": "",
+      "customerNumber": "357",
+      "orderDate": "2005-04-29",
+      "orderName": "10410",
+      "requiredDate": "2005-05-10",
+      "shippedDate": "2005-04-30",
+      "status": "Shipped"
+    },
+    "10411": {
+      "comments": "",
+      "customerNumber": "233",
+      "orderDate": "2005-05-01",
+      "orderName": "10411",
+      "requiredDate": "2005-05-08",
+      "shippedDate": "2005-05-06",
+      "status": "Shipped"
+    },
+    "10412": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2005-05-03",
+      "orderName": "10412",
+      "requiredDate": "2005-05-13",
+      "shippedDate": "2005-05-05",
+      "status": "Shipped"
+    },
+    "10413": {
+      "comments": "Customer requested that DHL is used for this shipping",
+      "customerNumber": "175",
+      "orderDate": "2005-05-05",
+      "orderName": "10413",
+      "requiredDate": "2005-05-14",
+      "shippedDate": "2005-05-09",
+      "status": "Shipped"
+    },
+    "10414": {
+      "comments": "Customer credit limit exceeded. Will ship when a payment is received.",
+      "customerNumber": "362",
+      "orderDate": "2005-05-06",
+      "orderName": "10414",
+      "requiredDate": "2005-05-13",
+      "shippedDate": "",
+      "status": "On Hold"
+    },
+    "10415": {
+      "comments": "Customer claims the scales of the models don't match what was discussed. I keep all the paperwork though to prove otherwise",
+      "customerNumber": "471",
+      "orderDate": "2005-05-09",
+      "orderName": "10415",
+      "requiredDate": "2005-05-20",
+      "shippedDate": "2005-05-12",
+      "status": "Disputed"
+    },
+    "10416": {
+      "comments": "",
+      "customerNumber": "386",
+      "orderDate": "2005-05-10",
+      "orderName": "10416",
+      "requiredDate": "2005-05-16",
+      "shippedDate": "2005-05-14",
+      "status": "Shipped"
+    },
+    "10417": {
+      "comments": "Customer doesn't like the colors and precision of the models.",
+      "customerNumber": "141",
+      "orderDate": "2005-05-13",
+      "orderName": "10417",
+      "requiredDate": "2005-05-19",
+      "shippedDate": "2005-05-19",
+      "status": "Disputed"
+    },
+    "10418": {
+      "comments": "",
+      "customerNumber": "412",
+      "orderDate": "2005-05-16",
+      "orderName": "10418",
+      "requiredDate": "2005-05-24",
+      "shippedDate": "2005-05-20",
+      "status": "Shipped"
+    },
+    "10419": {
+      "comments": "",
+      "customerNumber": "382",
+      "orderDate": "2005-05-17",
+      "orderName": "10419",
+      "requiredDate": "2005-05-28",
+      "shippedDate": "2005-05-19",
+      "status": "Shipped"
+    },
+    "10420": {
+      "comments": "",
+      "customerNumber": "282",
+      "orderDate": "2005-05-29",
+      "orderName": "10420",
+      "requiredDate": "2005-06-07",
+      "shippedDate": "",
+      "status": "In Process"
+    },
+    "10421": {
+      "comments": "Custom shipping instructions were sent to warehouse",
+      "customerNumber": "124",
+      "orderDate": "2005-05-29",
+      "orderName": "10421",
+      "requiredDate": "2005-06-06",
+      "shippedDate": "",
+      "status": "In Process"
+    },
+    "10422": {
+      "comments": "",
+      "customerNumber": "157",
+      "orderDate": "2005-05-30",
+      "orderName": "10422",
+      "requiredDate": "2005-06-11",
+      "shippedDate": "",
+      "status": "In Process"
+    },
+    "10423": {
+      "comments": "",
+      "customerNumber": "314",
+      "orderDate": "2005-05-30",
+      "orderName": "10423",
+      "requiredDate": "2005-06-05",
+      "shippedDate": "",
+      "status": "In Process"
+    },
+    "10424": {
+      "comments": "",
+      "customerNumber": "141",
+      "orderDate": "2005-05-31",
+      "orderName": "10424",
+      "requiredDate": "2005-06-08",
+      "shippedDate": "",
+      "status": "In Process"
+    },
+    "10425": {
+      "comments": "",
+      "customerNumber": "119",
+      "orderDate": "2005-05-31",
+      "orderName": "10425",
+      "requiredDate": "2005-06-07",
+      "shippedDate": "",
+      "status": "In Process"
+    },
+    "10426": {
+      "comments": "",
+      "customerNumber": "406",
+      "orderDate": "2007-01-23",
+      "orderName": "10426",
+      "requiredDate": "2007-02-10",
+      "shippedDate": "2007-02-12",
+      "status": "Shipped"
+    }
+  },
+  "products": {
+    "S10_1678": {
+      "MSRP": "95.70",
+      "buyPrice": "48.81",
+      "productCode": "S10_1678",
+      "productLine": "Motorcycles",
+      "productName": "1969 Harley Davidson Ultimate Chopper",
+      "productScale": "1:10",
+      "productVendor": "Min Lin Diecast",
+      "quantityInStock": "7933"
+    },
+    "S10_1949": {
+      "MSRP": "214.30",
+      "buyPrice": "98.58",
+      "productCode": "S10_1949",
+      "productLine": "Classic Cars",
+      "productName": "1952 Alpine Renault 1300",
+      "productScale": "1:10",
+      "productVendor": "Classic Metal Creations",
+      "quantityInStock": "7305"
+    },
+    "S10_2016": {
+      "MSRP": "118.94",
+      "buyPrice": "68.99",
+      "productCode": "S10_2016",
+      "productLine": "Motorcycles",
+      "productName": "1996 Moto Guzzi 1100i",
+      "productScale": "1:10",
+      "productVendor": "Highway 66 Mini Classics",
+      "quantityInStock": "6625"
+    },
+    "S10_4698": {
+      "MSRP": "193.66",
+      "buyPrice": "91.02",
+      "productCode": "S10_4698",
+      "productLine": "Motorcycles",
+      "productName": "2003 Harley-Davidson Eagle Drag Bike",
+      "productScale": "1:10",
+      "productVendor": "Red Start Diecast",
+      "quantityInStock": "5582"
+    },
+    "S10_4757": {
+      "MSRP": "136.00",
+      "buyPrice": "85.68",
+      "productCode": "S10_4757",
+      "productLine": "Classic Cars",
+      "productName": "1972 Alfa Romeo GTA",
+      "productScale": "1:10",
+      "productVendor": "Motor City Art Classics",
+      "quantityInStock": "3252"
+    },
+    "S10_4962": {
+      "MSRP": "147.74",
+      "buyPrice": "103.42",
+      "productCode": "S10_4962",
+      "productLine": "Classic Cars",
+      "productName": "1962 LanciaA Delta 16V",
+      "productScale": "1:10",
+      "productVendor": "Second Gear Diecast",
+      "quantityInStock": "6791"
+    },
+    "S12_1099": {
+      "MSRP": "194.57",
+      "buyPrice": "95.34",
+      "productCode": "S12_1099",
+      "productLine": "Classic Cars",
+      "productName": "1968 Ford Mustang",
+      "productScale": "1:12",
+      "productVendor": "Autoart Studio Design",
+      "quantityInStock": "68"
+    },
+    "S12_1108": {
+      "MSRP": "207.80",
+      "buyPrice": "95.59",
+      "productCode": "S12_1108",
+      "productLine": "Classic Cars",
+      "productName": "2001 Ferrari Enzo",
+      "productScale": "1:12",
+      "productVendor": "Second Gear Diecast",
+      "quantityInStock": "3619"
+    },
+    "S12_1666": {
+      "MSRP": "136.67",
+      "buyPrice": "77.90",
+      "productCode": "S12_1666",
+      "productLine": "Trucks and Buses",
+      "productName": "1958 Setra Bus",
+      "productScale": "1:12",
+      "productVendor": "Welly Diecast Productions",
+      "quantityInStock": "1579"
+    },
+    "S12_2823": {
+      "MSRP": "150.62",
+      "buyPrice": "66.27",
+      "productCode": "S12_2823",
+      "productLine": "Motorcycles",
+      "productName": "2002 Suzuki XREO",
+      "productScale": "1:12",
+      "productVendor": "Unimax Art Galleries",
+      "quantityInStock": "9997"
+    },
+    "S12_3148": {
+      "MSRP": "151.08",
+      "buyPrice": "89.14",
+      "productCode": "S12_3148",
+      "productLine": "Classic Cars",
+      "productName": "1969 Corvair Monza",
+      "productScale": "1:18",
+      "productVendor": "Welly Diecast Productions",
+      "quantityInStock": "6906"
+    },
+    "S12_3380": {
+      "MSRP": "117.44",
+      "buyPrice": "75.16",
+      "productCode": "S12_3380",
+      "productLine": "Classic Cars",
+      "productName": "1968 Dodge Charger",
+      "productScale": "1:12",
+      "productVendor": "Welly Diecast Productions",
+      "quantityInStock": "9123"
+    },
+    "S12_3891": {
+      "MSRP": "173.02",
+      "buyPrice": "83.05",
+      "productCode": "S12_3891",
+      "productLine": "Classic Cars",
+      "productName": "1969 Ford Falcon",
+      "productScale": "1:12",
+      "productVendor": "Second Gear Diecast",
+      "quantityInStock": "1049"
+    },
+    "S12_3990": {
+      "MSRP": "79.80",
+      "buyPrice": "31.92",
+      "productCode": "S12_3990",
+      "productLine": "Classic Cars",
+      "productName": "1970 Plymouth Hemi Cuda",
+      "productScale": "1:12",
+      "productVendor": "Studio M Art Models",
+      "quantityInStock": "5663"
+    },
+    "S12_4473": {
+      "MSRP": "118.50",
+      "buyPrice": "55.70",
+      "productCode": "S12_4473",
+      "productLine": "Trucks and Buses",
+      "productName": "1957 Chevy Pickup",
+      "productScale": "1:12",
+      "productVendor": "Exoto Designs",
+      "quantityInStock": "6125"
+    },
+    "S12_4675": {
+      "MSRP": "115.16",
+      "buyPrice": "58.73",
+      "productCode": "S12_4675",
+      "productLine": "Classic Cars",
+      "productName": "1969 Dodge Charger",
+      "productScale": "1:12",
+      "productVendor": "Welly Diecast Productions",
+      "quantityInStock": "7323"
+    },
+    "S18_1097": {
+      "MSRP": "116.67",
+      "buyPrice": "58.33",
+      "productCode": "S18_1097",
+      "productLine": "Trucks and Buses",
+      "productName": "1940 Ford Pickup Truck",
+      "productScale": "1:18",
+      "productVendor": "Studio M Art Models",
+      "quantityInStock": "2613"
+    },
+    "S18_1129": {
+      "MSRP": "141.54",
+      "buyPrice": "83.51",
+      "productCode": "S18_1129",
+      "productLine": "Classic Cars",
+      "productName": "1993 Mazda RX-7",
+      "productScale": "1:18",
+      "productVendor": "Highway 66 Mini Classics",
+      "quantityInStock": "3975"
+    },
+    "S18_1342": {
+      "MSRP": "102.74",
+      "buyPrice": "60.62",
+      "productCode": "S18_1342",
+      "productLine": "Vintage Cars",
+      "productName": "1937 Lincoln Berline",
+      "productScale": "1:18",
+      "productVendor": "Motor City Art Classics",
+      "quantityInStock": "8693"
+    },
+    "S18_1367": {
+      "MSRP": "53.91",
+      "buyPrice": "24.26",
+      "productCode": "S18_1367",
+      "productLine": "Vintage Cars",
+      "productName": "1936 Mercedes-Benz 500K Special Roadster",
+      "productScale": "1:18",
+      "productVendor": "Studio M Art Models",
+      "quantityInStock": "8635"
+    },
+    "S18_1589": {
+      "MSRP": "124.44",
+      "buyPrice": "65.96",
+      "productCode": "S18_1589",
+      "productLine": "Classic Cars",
+      "productName": "1965 Aston Martin DB5",
+      "productScale": "1:18",
+      "productVendor": "Classic Metal Creations",
+      "quantityInStock": "9042"
+    },
+    "S18_1662": {
+      "MSRP": "157.69",
+      "buyPrice": "77.27",
+      "productCode": "S18_1662",
+      "productLine": "Planes",
+      "productName": "1980s Black Hawk Helicopter",
+      "productScale": "1:18",
+      "productVendor": "Red Start Diecast",
+      "quantityInStock": "5330"
+    },
+    "S18_1749": {
+      "MSRP": "170.00",
+      "buyPrice": "86.70",
+      "productCode": "S18_1749",
+      "productLine": "Vintage Cars",
+      "productName": "1917 Grand Touring Sedan",
+      "productScale": "1:18",
+      "productVendor": "Welly Diecast Productions",
+      "quantityInStock": "2724"
+    },
+    "S18_1889": {
+      "MSRP": "77.00",
+      "buyPrice": "53.90",
+      "productCode": "S18_1889",
+      "productLine": "Classic Cars",
+      "productName": "1948 Porsche 356-A Roadster",
+      "productScale": "1:18",
+      "productVendor": "Gearbox Collectibles",
+      "quantityInStock": "8826"
+    },
+    "S18_1984": {
+      "MSRP": "142.25",
+      "buyPrice": "93.89",
+      "productCode": "S18_1984",
+      "productLine": "Classic Cars",
+      "productName": "1995 Honda Civic",
+      "productScale": "1:18",
+      "productVendor": "Min Lin Diecast",
+      "quantityInStock": "9772"
+    },
+    "S18_2238": {
+      "MSRP": "163.73",
+      "buyPrice": "101.51",
+      "productCode": "S18_2238",
+      "productLine": "Classic Cars",
+      "productName": "1998 Chrysler Plymouth Prowler",
+      "productScale": "1:18",
+      "productVendor": "Gearbox Collectibles",
+      "quantityInStock": "4724"
+    },
+    "S18_2248": {
+      "MSRP": "60.54",
+      "buyPrice": "33.30",
+      "productCode": "S18_2248",
+      "productLine": "Vintage Cars",
+      "productName": "1911 Ford Town Car",
+      "productScale": "1:18",
+      "productVendor": "Motor City Art Classics",
+      "quantityInStock": "540"
+    },
+    "S18_2319": {
+      "MSRP": "122.73",
+      "buyPrice": "74.86",
+      "productCode": "S18_2319",
+      "productLine": "Trucks and Buses",
+      "productName": "1964 Mercedes Tour Bus",
+      "productScale": "1:18",
+      "productVendor": "Unimax Art Galleries",
+      "quantityInStock": "8258"
+    },
+    "S18_2325": {
+      "MSRP": "127.13",
+      "buyPrice": "58.48",
+      "productCode": "S18_2325",
+      "productLine": "Vintage Cars",
+      "productName": "1932 Model A Ford J-Coupe",
+      "productScale": "1:18",
+      "productVendor": "Autoart Studio Design",
+      "quantityInStock": "9354"
+    },
+    "S18_2432": {
+      "MSRP": "60.77",
+      "buyPrice": "24.92",
+      "productCode": "S18_2432",
+      "productLine": "Trucks and Buses",
+      "productName": "1926 Ford Fire Engine",
+      "productScale": "1:18",
+      "productVendor": "Carousel DieCast Legends",
+      "quantityInStock": "2018"
+    },
+    "S18_2581": {
+      "MSRP": "84.48",
+      "buyPrice": "49.00",
+      "productCode": "S18_2581",
+      "productLine": "Planes",
+      "productName": "P-51-D Mustang",
+      "productScale": "1:72",
+      "productVendor": "Gearbox Collectibles",
+      "quantityInStock": "992"
+    },
+    "S18_2625": {
+      "MSRP": "60.57",
+      "buyPrice": "24.23",
+      "productCode": "S18_2625",
+      "productLine": "Motorcycles",
+      "productName": "1936 Harley Davidson El Knucklehead",
+      "productScale": "1:18",
+      "productVendor": "Welly Diecast Productions",
+      "quantityInStock": "4357"
+    },
+    "S18_2795": {
+      "MSRP": "168.75",
+      "buyPrice": "72.56",
+      "productCode": "S18_2795",
+      "productLine": "Vintage Cars",
+      "productName": "1928 Mercedes-Benz SSK",
+      "productScale": "1:18",
+      "productVendor": "Gearbox Collectibles",
+      "quantityInStock": "548"
+    },
+    "S18_2870": {
+      "MSRP": "132.00",
+      "buyPrice": "56.76",
+      "productCode": "S18_2870",
+      "productLine": "Classic Cars",
+      "productName": "1999 Indy 500 Monte Carlo SS",
+      "productScale": "1:18",
+      "productVendor": "Red Start Diecast",
+      "quantityInStock": "8164"
+    },
+    "S18_2949": {
+      "MSRP": "101.31",
+      "buyPrice": "60.78",
+      "productCode": "S18_2949",
+      "productLine": "Vintage Cars",
+      "productName": "1913 Ford Model T Speedster",
+      "productScale": "1:18",
+      "productVendor": "Carousel DieCast Legends",
+      "quantityInStock": "4189"
+    },
+    "S18_2957": {
+      "MSRP": "62.46",
+      "buyPrice": "34.35",
+      "productCode": "S18_2957",
+      "productLine": "Vintage Cars",
+      "productName": "1934 Ford V8 Coupe",
+      "productScale": "1:18",
+      "productVendor": "Min Lin Diecast",
+      "quantityInStock": "5649"
+    },
+    "S18_3029": {
+      "MSRP": "86.02",
+      "buyPrice": "51.61",
+      "productCode": "S18_3029",
+      "productLine": "Ships",
+      "productName": "1999 Yamaha Speed Boat",
+      "productScale": "1:18",
+      "productVendor": "Min Lin Diecast",
+      "quantityInStock": "4259"
+    },
+    "S18_3136": {
+      "MSRP": "104.72",
+      "buyPrice": "60.74",
+      "productCode": "S18_3136",
+      "productLine": "Vintage Cars",
+      "productName": "18th Century Vintage Horse Carriage",
+      "productScale": "1:18",
+      "productVendor": "Red Start Diecast",
+      "quantityInStock": "5992"
+    },
+    "S18_3140": {
+      "MSRP": "136.59",
+      "buyPrice": "68.30",
+      "productCode": "S18_3140",
+      "productLine": "Vintage Cars",
+      "productName": "1903 Ford Model A",
+      "productScale": "1:18",
+      "productVendor": "Unimax Art Galleries",
+      "quantityInStock": "3913"
+    },
+    "S18_3232": {
+      "MSRP": "169.34",
+      "buyPrice": "77.90",
+      "productCode": "S18_3232",
+      "productLine": "Classic Cars",
+      "productName": "1992 Ferrari 360 Spider red",
+      "productScale": "1:18",
+      "productVendor": "Unimax Art Galleries",
+      "quantityInStock": "8347"
+    },
+    "S18_3233": {
+      "MSRP": "107.57",
+      "buyPrice": "57.01",
+      "productCode": "S18_3233",
+      "productLine": "Classic Cars",
+      "productName": "1985 Toyota Supra",
+      "productScale": "1:18",
+      "productVendor": "Highway 66 Mini Classics",
+      "quantityInStock": "7733"
+    },
+    "S18_3259": {
+      "MSRP": "100.84",
+      "buyPrice": "67.56",
+      "productCode": "S18_3259",
+      "productLine": "Trains",
+      "productName": "Collectable Wooden Train",
+      "productScale": "1:18",
+      "productVendor": "Carousel DieCast Legends",
+      "quantityInStock": "6450"
+    },
+    "S18_3278": {
+      "MSRP": "80.41",
+      "buyPrice": "49.05",
+      "productCode": "S18_3278",
+      "productLine": "Classic Cars",
+      "productName": "1969 Dodge Super Bee",
+      "productScale": "1:18",
+      "productVendor": "Min Lin Diecast",
+      "quantityInStock": "1917"
+    },
+    "S18_3320": {
+      "MSRP": "99.21",
+      "buyPrice": "57.54",
+      "productCode": "S18_3320",
+      "productLine": "Vintage Cars",
+      "productName": "1917 Maxwell Touring Car",
+      "productScale": "1:18",
+      "productVendor": "Exoto Designs",
+      "quantityInStock": "7913"
+    },
+    "S18_3482": {
+      "MSRP": "146.99",
+      "buyPrice": "73.49",
+      "productCode": "S18_3482",
+      "productLine": "Classic Cars",
+      "productName": "1976 Ford Gran Torino",
+      "productScale": "1:18",
+      "productVendor": "Gearbox Collectibles",
+      "quantityInStock": "9127"
+    },
+    "S18_3685": {
+      "MSRP": "141.28",
+      "buyPrice": "62.16",
+      "productCode": "S18_3685",
+      "productLine": "Classic Cars",
+      "productName": "1948 Porsche Type 356 Roadster",
+      "productScale": "1:18",
+      "productVendor": "Gearbox Collectibles",
+      "quantityInStock": "8990"
+    },
+    "S18_3782": {
+      "MSRP": "62.17",
+      "buyPrice": "32.95",
+      "productCode": "S18_3782",
+      "productLine": "Motorcycles",
+      "productName": "1957 Vespa GS150",
+      "productScale": "1:18",
+      "productVendor": "Studio M Art Models",
+      "quantityInStock": "7689"
+    },
+    "S18_3856": {
+      "MSRP": "105.87",
+      "buyPrice": "64.58",
+      "productCode": "S18_3856",
+      "productLine": "Vintage Cars",
+      "productName": "1941 Chevrolet Special Deluxe Cabriolet",
+      "productScale": "1:18",
+      "productVendor": "Exoto Designs",
+      "quantityInStock": "2378"
+    },
+    "S18_4027": {
+      "MSRP": "143.62",
+      "buyPrice": "91.92",
+      "productCode": "S18_4027",
+      "productLine": "Classic Cars",
+      "productName": "1970 Triumph Spitfire",
+      "productScale": "1:18",
+      "productVendor": "Min Lin Diecast",
+      "quantityInStock": "5545"
+    },
+    "S18_4409": {
+      "MSRP": "92.03",
+      "buyPrice": "43.26",
+      "productCode": "S18_4409",
+      "productLine": "Vintage Cars",
+      "productName": "1932 Alfa Romeo 8C2300 Spider Sport",
+      "productScale": "1:18",
+      "productVendor": "Exoto Designs",
+      "quantityInStock": "6553"
+    },
+    "S18_4522": {
+      "MSRP": "87.77",
+      "buyPrice": "52.66",
+      "productCode": "S18_4522",
+      "productLine": "Vintage Cars",
+      "productName": "1904 Buick Runabout",
+      "productScale": "1:18",
+      "productVendor": "Exoto Designs",
+      "quantityInStock": "8290"
+    },
+    "S18_4600": {
+      "MSRP": "121.08",
+      "buyPrice": "84.76",
+      "productCode": "S18_4600",
+      "productLine": "Trucks and Buses",
+      "productName": "1940s Ford truck",
+      "productScale": "1:18",
+      "productVendor": "Motor City Art Classics",
+      "quantityInStock": "3128"
+    },
+    "S18_4668": {
+      "MSRP": "50.31",
+      "buyPrice": "23.14",
+      "productCode": "S18_4668",
+      "productLine": "Vintage Cars",
+      "productName": "1939 Cadillac Limousine",
+      "productScale": "1:18",
+      "productVendor": "Studio M Art Models",
+      "quantityInStock": "6645"
+    },
+    "S18_4721": {
+      "MSRP": "148.80",
+      "buyPrice": "69.93",
+      "productCode": "S18_4721",
+      "productLine": "Classic Cars",
+      "productName": "1957 Corvette Convertible",
+      "productScale": "1:18",
+      "productVendor": "Classic Metal Creations",
+      "quantityInStock": "1249"
+    },
+    "S18_4933": {
+      "MSRP": "71.27",
+      "buyPrice": "34.21",
+      "productCode": "S18_4933",
+      "productLine": "Classic Cars",
+      "productName": "1957 Ford Thunderbird",
+      "productScale": "1:18",
+      "productVendor": "Studio M Art Models",
+      "quantityInStock": "3209"
+    },
+    "S24_1046": {
+      "MSRP": "73.49",
+      "buyPrice": "49.24",
+      "productCode": "S24_1046",
+      "productLine": "Classic Cars",
+      "productName": "1970 Chevy Chevelle SS 454",
+      "productScale": "1:24",
+      "productVendor": "Unimax Art Galleries",
+      "quantityInStock": "1005"
+    },
+    "S24_1444": {
+      "MSRP": "57.80",
+      "buyPrice": "32.37",
+      "productCode": "S24_1444",
+      "productLine": "Classic Cars",
+      "productName": "1970 Dodge Coronet",
+      "productScale": "1:24",
+      "productVendor": "Highway 66 Mini Classics",
+      "quantityInStock": "4074"
+    },
+    "S24_1578": {
+      "MSRP": "112.70",
+      "buyPrice": "60.86",
+      "productCode": "S24_1578",
+      "productLine": "Motorcycles",
+      "productName": "1997 BMW R 1100 S",
+      "productScale": "1:24",
+      "productVendor": "Autoart Studio Design",
+      "quantityInStock": "7003"
+    },
+    "S24_1628": {
+      "MSRP": "50.31",
+      "buyPrice": "29.18",
+      "productCode": "S24_1628",
+      "productLine": "Classic Cars",
+      "productName": "1966 Shelby Cobra 427 S/C",
+      "productScale": "1:24",
+      "productVendor": "Carousel DieCast Legends",
+      "quantityInStock": "8197"
+    },
+    "S24_1785": {
+      "MSRP": "109.42",
+      "buyPrice": "66.74",
+      "productCode": "S24_1785",
+      "productLine": "Planes",
+      "productName": "1928 British Royal Navy Airplane",
+      "productScale": "1:24",
+      "productVendor": "Classic Metal Creations",
+      "quantityInStock": "3627"
+    },
+    "S24_1937": {
+      "MSRP": "33.19",
+      "buyPrice": "22.57",
+      "productCode": "S24_1937",
+      "productLine": "Vintage Cars",
+      "productName": "1939 Chevrolet Deluxe Coupe",
+      "productScale": "1:24",
+      "productVendor": "Motor City Art Classics",
+      "quantityInStock": "7332"
+    },
+    "S24_2000": {
+      "MSRP": "76.17",
+      "buyPrice": "37.32",
+      "productCode": "S24_2000",
+      "productLine": "Motorcycles",
+      "productName": "1960 BSA Gold Star DBD34",
+      "productScale": "1:24",
+      "productVendor": "Highway 66 Mini Classics",
+      "quantityInStock": "15"
+    },
+    "S24_2011": {
+      "MSRP": "122.89",
+      "buyPrice": "82.34",
+      "productCode": "S24_2011",
+      "productLine": "Ships",
+      "productName": "18th century schooner",
+      "productScale": "1:24",
+      "productVendor": "Carousel DieCast Legends",
+      "quantityInStock": "1898"
+    },
+    "S24_2022": {
+      "MSRP": "44.80",
+      "buyPrice": "20.61",
+      "productCode": "S24_2022",
+      "productLine": "Vintage Cars",
+      "productName": "1938 Cadillac V-16 Presidential Limousine",
+      "productScale": "1:24",
+      "productVendor": "Classic Metal Creations",
+      "quantityInStock": "2847"
+    },
+    "S24_2300": {
+      "MSRP": "127.79",
+      "buyPrice": "61.34",
+      "productCode": "S24_2300",
+      "productLine": "Trucks and Buses",
+      "productName": "1962 Volkswagen Microbus",
+      "productScale": "1:24",
+      "productVendor": "Autoart Studio Design",
+      "quantityInStock": "2327"
+    },
+    "S24_2360": {
+      "MSRP": "69.26",
+      "buyPrice": "47.10",
+      "productCode": "S24_2360",
+      "productLine": "Motorcycles",
+      "productName": "1982 Ducati 900 Monster",
+      "productScale": "1:24",
+      "productVendor": "Highway 66 Mini Classics",
+      "quantityInStock": "6840"
+    },
+    "S24_2766": {
+      "MSRP": "90.87",
+      "buyPrice": "47.25",
+      "productCode": "S24_2766",
+      "productLine": "Classic Cars",
+      "productName": "1949 Jaguar XK 120",
+      "productScale": "1:24",
+      "productVendor": "Classic Metal Creations",
+      "quantityInStock": "2350"
+    },
+    "S24_2840": {
+      "MSRP": "35.36",
+      "buyPrice": "15.91",
+      "productCode": "S24_2840",
+      "productLine": "Classic Cars",
+      "productName": "1958 Chevy Corvette Limited Edition",
+      "productScale": "1:24",
+      "productVendor": "Carousel DieCast Legends",
+      "quantityInStock": "2542"
+    },
+    "S24_2841": {
+      "MSRP": "68.51",
+      "buyPrice": "34.25",
+      "productCode": "S24_2841",
+      "productLine": "Planes",
+      "productName": "1900s Vintage Bi-Plane",
+      "productScale": "1:24",
+      "productVendor": "Autoart Studio Design",
+      "quantityInStock": "5942"
+    },
+    "S24_2887": {
+      "MSRP": "117.44",
+      "buyPrice": "72.82",
+      "productCode": "S24_2887",
+      "productLine": "Classic Cars",
+      "productName": "1952 Citroen-15CV",
+      "productScale": "1:24",
+      "productVendor": "Exoto Designs",
+      "quantityInStock": "1452"
+    },
+    "S24_2972": {
+      "MSRP": "37.76",
+      "buyPrice": "16.24",
+      "productCode": "S24_2972",
+      "productLine": "Classic Cars",
+      "productName": "1982 Lamborghini Diablo",
+      "productScale": "1:24",
+      "productVendor": "Second Gear Diecast",
+      "quantityInStock": "7723"
+    },
+    "S24_3151": {
+      "MSRP": "88.51",
+      "buyPrice": "46.91",
+      "productCode": "S24_3151",
+      "productLine": "Vintage Cars",
+      "productName": "1912 Ford Model T Delivery Wagon",
+      "productScale": "1:24",
+      "productVendor": "Min Lin Diecast",
+      "quantityInStock": "9173"
+    },
+    "S24_3191": {
+      "MSRP": "85.61",
+      "buyPrice": "50.51",
+      "productCode": "S24_3191",
+      "productLine": "Classic Cars",
+      "productName": "1969 Chevrolet Camaro Z28",
+      "productScale": "1:24",
+      "productVendor": "Exoto Designs",
+      "quantityInStock": "4695"
+    },
+    "S24_3371": {
+      "MSRP": "61.23",
+      "buyPrice": "38.58",
+      "productCode": "S24_3371",
+      "productLine": "Classic Cars",
+      "productName": "1971 Alpine Renault 1600s",
+      "productScale": "1:24",
+      "productVendor": "Welly Diecast Productions",
+      "quantityInStock": "7995"
+    },
+    "S24_3420": {
+      "MSRP": "65.75",
+      "buyPrice": "26.30",
+      "productCode": "S24_3420",
+      "productLine": "Vintage Cars",
+      "productName": "1937 Horch 930V Limousine",
+      "productScale": "1:24",
+      "productVendor": "Autoart Studio Design",
+      "quantityInStock": "2902"
+    },
+    "S24_3432": {
+      "MSRP": "107.08",
+      "buyPrice": "62.11",
+      "productCode": "S24_3432",
+      "productLine": "Classic Cars",
+      "productName": "2002 Chevy Corvette",
+      "productScale": "1:24",
+      "productVendor": "Gearbox Collectibles",
+      "quantityInStock": "9446"
+    },
+    "S24_3816": {
+      "MSRP": "83.86",
+      "buyPrice": "48.64",
+      "productCode": "S24_3816",
+      "productLine": "Vintage Cars",
+      "productName": "1940 Ford Delivery Sedan",
+      "productScale": "1:24",
+      "productVendor": "Carousel DieCast Legends",
+      "quantityInStock": "6621"
+    },
+    "S24_3856": {
+      "MSRP": "140.43",
+      "buyPrice": "98.30",
+      "productCode": "S24_3856",
+      "productLine": "Classic Cars",
+      "productName": "1956 Porsche 356A Coupe",
+      "productScale": "1:18",
+      "productVendor": "Classic Metal Creations",
+      "quantityInStock": "6600"
+    },
+    "S24_3949": {
+      "MSRP": "68.24",
+      "buyPrice": "29.34",
+      "productCode": "S24_3949",
+      "productLine": "Planes",
+      "productName": "Corsair F4U ( Bird Cage)",
+      "productScale": "1:24",
+      "productVendor": "Second Gear Diecast",
+      "quantityInStock": "6812"
+    },
+    "S24_3969": {
+      "MSRP": "41.03",
+      "buyPrice": "21.75",
+      "productCode": "S24_3969",
+      "productLine": "Vintage Cars",
+      "productName": "1936 Mercedes Benz 500k Roadster",
+      "productScale": "1:24",
+      "productVendor": "Red Start Diecast",
+      "quantityInStock": "2081"
+    },
+    "S24_4048": {
+      "MSRP": "118.28",
+      "buyPrice": "69.78",
+      "productCode": "S24_4048",
+      "productLine": "Classic Cars",
+      "productName": "1992 Porsche Cayenne Turbo Silver",
+      "productScale": "1:24",
+      "productVendor": "Exoto Designs",
+      "quantityInStock": "6582"
+    },
+    "S24_4258": {
+      "MSRP": "97.39",
+      "buyPrice": "57.46",
+      "productCode": "S24_4258",
+      "productLine": "Vintage Cars",
+      "productName": "1936 Chrysler Airflow",
+      "productScale": "1:24",
+      "productVendor": "Second Gear Diecast",
+      "quantityInStock": "4710"
+    },
+    "S24_4278": {
+      "MSRP": "72.45",
+      "buyPrice": "36.23",
+      "productCode": "S24_4278",
+      "productLine": "Planes",
+      "productName": "1900s Vintage Tri-Plane",
+      "productScale": "1:24",
+      "productVendor": "Unimax Art Galleries",
+      "quantityInStock": "2756"
+    },
+    "S24_4620": {
+      "MSRP": "80.84",
+      "buyPrice": "32.33",
+      "productCode": "S24_4620",
+      "productLine": "Classic Cars",
+      "productName": "1961 Chevrolet Impala",
+      "productScale": "1:18",
+      "productVendor": "Classic Metal Creations",
+      "quantityInStock": "7869"
+    },
+    "S32_1268": {
+      "MSRP": "96.31",
+      "buyPrice": "53.93",
+      "productCode": "S32_1268",
+      "productLine": "Trucks and Buses",
+      "productName": "1980’s GM Manhattan Express",
+      "productScale": "1:32",
+      "productVendor": "Motor City Art Classics",
+      "quantityInStock": "5099"
+    },
+    "S32_1374": {
+      "MSRP": "99.89",
+      "buyPrice": "66.92",
+      "productCode": "S32_1374",
+      "productLine": "Motorcycles",
+      "productName": "1997 BMW F650 ST",
+      "productScale": "1:32",
+      "productVendor": "Exoto Designs",
+      "quantityInStock": "178"
+    },
+    "S32_2206": {
+      "MSRP": "40.23",
+      "buyPrice": "24.14",
+      "productCode": "S32_2206",
+      "productLine": "Motorcycles",
+      "productName": "1982 Ducati 996 R",
+      "productScale": "1:32",
+      "productVendor": "Gearbox Collectibles",
+      "quantityInStock": "9241"
+    },
+    "S32_2509": {
+      "MSRP": "54.11",
+      "buyPrice": "25.98",
+      "productCode": "S32_2509",
+      "productLine": "Trucks and Buses",
+      "productName": "1954 Greyhound Scenicruiser",
+      "productScale": "1:32",
+      "productVendor": "Classic Metal Creations",
+      "quantityInStock": "2874"
+    },
+    "S32_3207": {
+      "MSRP": "62.14",
+      "buyPrice": "26.72",
+      "productCode": "S32_3207",
+      "productLine": "Trains",
+      "productName": "1950's Chicago Surface Lines Streetcar",
+      "productScale": "1:32",
+      "productVendor": "Gearbox Collectibles",
+      "quantityInStock": "8601"
+    },
+    "S32_3522": {
+      "MSRP": "64.64",
+      "buyPrice": "33.61",
+      "productCode": "S32_3522",
+      "productLine": "Trucks and Buses",
+      "productName": "1996 Peterbilt 379 Stake Bed with Outrigger",
+      "productScale": "1:32",
+      "productVendor": "Red Start Diecast",
+      "quantityInStock": "814"
+    },
+    "S32_4289": {
+      "MSRP": "68.79",
+      "buyPrice": "33.02",
+      "productCode": "S32_4289",
+      "productLine": "Vintage Cars",
+      "productName": "1928 Ford Phaeton Deluxe",
+      "productScale": "1:32",
+      "productVendor": "Highway 66 Mini Classics",
+      "quantityInStock": "136"
+    },
+    "S32_4485": {
+      "MSRP": "102.05",
+      "buyPrice": "56.13",
+      "productCode": "S32_4485",
+      "productLine": "Motorcycles",
+      "productName": "1974 Ducati 350 Mk3 Desmo",
+      "productScale": "1:32",
+      "productVendor": "Second Gear Diecast",
+      "quantityInStock": "3341"
+    },
+    "S50_1341": {
+      "MSRP": "43.64",
+      "buyPrice": "27.06",
+      "productCode": "S50_1341",
+      "productLine": "Vintage Cars",
+      "productName": "1930 Buick Marquette Phaeton",
+      "productScale": "1:50",
+      "productVendor": "Studio M Art Models",
+      "quantityInStock": "7062"
+    },
+    "S50_1392": {
+      "MSRP": "115.75",
+      "buyPrice": "68.29",
+      "productCode": "S50_1392",
+      "productLine": "Trucks and Buses",
+      "productName": "Diamond T620 Semi-Skirted Tanker",
+      "productScale": "1:50",
+      "productVendor": "Highway 66 Mini Classics",
+      "quantityInStock": "1016"
+    },
+    "S50_1514": {
+      "MSRP": "58.58",
+      "buyPrice": "37.49",
+      "productCode": "S50_1514",
+      "productLine": "Trains",
+      "productName": "1962 City of Detroit Streetcar",
+      "productScale": "1:50",
+      "productVendor": "Classic Metal Creations",
+      "quantityInStock": "1645"
+    },
+    "S50_4713": {
+      "MSRP": "81.36",
+      "buyPrice": "34.17",
+      "productCode": "S50_4713",
+      "productLine": "Motorcycles",
+      "productName": "2002 Yamaha YZR M1",
+      "productScale": "1:50",
+      "productVendor": "Autoart Studio Design",
+      "quantityInStock": "600"
+    },
+    "S700_1138": {
+      "MSRP": "66.67",
+      "buyPrice": "34.00",
+      "productCode": "S700_1138",
+      "productLine": "Ships",
+      "productName": "The Schooner Bluenose",
+      "productScale": "1:700",
+      "productVendor": "Autoart Studio Design",
+      "quantityInStock": "1897"
+    },
+    "S700_1691": {
+      "MSRP": "91.34",
+      "buyPrice": "51.15",
+      "productCode": "S700_1691",
+      "productLine": "Planes",
+      "productName": "American Airlines: B767-300",
+      "productScale": "1:700",
+      "productVendor": "Min Lin Diecast",
+      "quantityInStock": "5841"
+    },
+    "S700_1938": {
+      "MSRP": "86.61",
+      "buyPrice": "43.30",
+      "productCode": "S700_1938",
+      "productLine": "Ships",
+      "productName": "The Mayflower",
+      "productScale": "1:700",
+      "productVendor": "Studio M Art Models",
+      "quantityInStock": "737"
+    },
+    "S700_2047": {
+      "MSRP": "90.52",
+      "buyPrice": "39.83",
+      "productCode": "S700_2047",
+      "productLine": "Ships",
+      "productName": "HMS Bounty",
+      "productScale": "1:700",
+      "productVendor": "Unimax Art Galleries",
+      "quantityInStock": "3501"
+    },
+    "S700_2466": {
+      "MSRP": "99.72",
+      "buyPrice": "68.80",
+      "productCode": "S700_2466",
+      "productLine": "Planes",
+      "productName": "America West Airlines B757-200",
+      "productScale": "1:700",
+      "productVendor": "Motor City Art Classics",
+      "quantityInStock": "9653"
+    },
+    "S700_2610": {
+      "MSRP": "72.28",
+      "buyPrice": "33.97",
+      "productCode": "S700_2610",
+      "productLine": "Ships",
+      "productName": "The USS Constitution Ship",
+      "productScale": "1:700",
+      "productVendor": "Red Start Diecast",
+      "quantityInStock": "7083"
+    },
+    "S700_2824": {
+      "MSRP": "101.15",
+      "buyPrice": "46.53",
+      "productCode": "S700_2824",
+      "productLine": "Classic Cars",
+      "productName": "1982 Camaro Z28",
+      "productScale": "1:18",
+      "productVendor": "Carousel DieCast Legends",
+      "quantityInStock": "6934"
+    },
+    "S700_2834": {
+      "MSRP": "118.65",
+      "buyPrice": "59.33",
+      "productCode": "S700_2834",
+      "productLine": "Planes",
+      "productName": "ATA: B757-300",
+      "productScale": "1:700",
+      "productVendor": "Highway 66 Mini Classics",
+      "quantityInStock": "7106"
+    },
+    "S700_3167": {
+      "MSRP": "80.00",
+      "buyPrice": "54.40",
+      "productCode": "S700_3167",
+      "productLine": "Planes",
+      "productName": "F/A 18 Hornet 1/72",
+      "productScale": "1:72",
+      "productVendor": "Motor City Art Classics",
+      "quantityInStock": "551"
+    },
+    "S700_3505": {
+      "MSRP": "100.17",
+      "buyPrice": "51.09",
+      "productCode": "S700_3505",
+      "productLine": "Ships",
+      "productName": "The Titanic",
+      "productScale": "1:700",
+      "productVendor": "Carousel DieCast Legends",
+      "quantityInStock": "1956"
+    },
+    "S700_3962": {
+      "MSRP": "99.31",
+      "buyPrice": "53.63",
+      "productCode": "S700_3962",
+      "productLine": "Ships",
+      "productName": "The Queen Mary",
+      "productScale": "1:700",
+      "productVendor": "Welly Diecast Productions",
+      "quantityInStock": "5088"
+    },
+    "S700_4002": {
+      "MSRP": "74.03",
+      "buyPrice": "36.27",
+      "productCode": "S700_4002",
+      "productLine": "Planes",
+      "productName": "American Airlines: MD-11S",
+      "productScale": "1:700",
+      "productVendor": "Second Gear Diecast",
+      "quantityInStock": "8820"
+    },
+    "S72_1253": {
+      "MSRP": "49.66",
+      "buyPrice": "32.77",
+      "productCode": "S72_1253",
+      "productLine": "Planes",
+      "productName": "Boeing X-32A JSF",
+      "productScale": "1:72",
+      "productVendor": "Motor City Art Classics",
+      "quantityInStock": "4857"
+    },
+    "S72_3212": {
+      "MSRP": "54.60",
+      "buyPrice": "33.30",
+      "productCode": "S72_3212",
+      "productLine": "Ships",
+      "productName": "Pont Yacht",
+      "productScale": "1:72",
+      "productVendor": "Unimax Art Galleries",
+      "quantityInStock": "414"
+    }
+  }
+}
